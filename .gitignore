@@ -5,3 +5,4 @@
 rds/
 sas_data/
 parquet/
+*.Rdata
