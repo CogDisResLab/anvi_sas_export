@@ -8,14 +8,14 @@ state_codes <- read_csv("raw/sas_state_code.csv") |>
     rename(STATE = CODE)
 
 ccaei103 <- open_dataset("parquet/ccaei103") |>
-    select(ENROLID, STATE, depression, AGE) |>
+    select(ENROLID, STATE, regional_enteritis, AGE) |>
     filter(AGE <= 65, AGE >= 18) |>
-    group_by(STATE, depression) |>
+    group_by(STATE, regional_enteritis) |>
     distinct() |>
     collect() |>
-    summarise(num = sum(depression)) |>
-    filter(depression == 1) |>
-    select(-depression) |>
+    summarise(num = sum(regional_enteritis)) |>
+    filter(regional_enteritis == 1) |>
+    select(-regional_enteritis) |>
     inner_join(state_codes) |>
     ungroup() |>
     select(-STATE) |>
@@ -30,4 +30,4 @@ population <- read_csv("raw/nst-est2019-alldata.csv") |>
 
 rates <- inner_join(population, ccaei103) |>
     mutate(rates = round(CASES / STD_POP, 4)) |>
-    write_csv("results/depression_incidence_rates_population.csv")
+    write_csv("results/regional_enteritis_incidence_rates_population.csv")
