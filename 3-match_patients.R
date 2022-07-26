@@ -1,51 +1,49 @@
 # Get matched patients
 #
-#
-#
+
 
 library(MatchIt)
 library(tidyverse)
 library(arrow)
 
+match_patients <- function(disease) {
+    dataset <- open_dataset("parquet/ccaei103") |>
+        select(ENROLID, !!disease, AGE, SEX) |>
+        filter(AGE <= 65, AGE >= 18) |>
+        distinct() |>
+        collect() |>
+        mutate(SEX = as.numeric(SEX) - 1) |>
+        drop_na(ENROLID, AGE, SEX) |>
+        rename_with(str_to_upper)
 
-# Matched Depression
-dataset <- open_dataset("parquet/ccaei103") |>
-    select(ENROLID, depression, AGE, SEX) |>
-    filter(AGE <= 65, AGE >= 18) |>
-    distinct() |>
-    collect() |>
-    mutate(SEX = as.numeric(SEX) - 1) |>
-    drop_na(ENROLID, AGE, SEX) |>
-    rename_with(str_to_upper)
+    output_file <- file.path("datastore",
+                             str_glue("matched_ibm_{disease}.RDS"))
 
+    output_data_file <- file.path("results",
+                                  "matched",
+                                  str_glue("matched_{disease}.csv"))
 
-if (file.exists("datastore/matched_ibm_depression.RData")) {
-    load("datastore/matched_ibm_depression.RData")
-} else {
-    model <- matchit(DEPRESSION ~ SEX + AGE, data = dataset)
-    save(model, file = "datastore/matched_ibm_depression.RData")
+    match_formula <- as.formula(str_glue("{str_to_upper(disease)} ~ SEX + AGE"))
+
+    if (file.exists(output_file)) {
+        model <- readRDS(output_file)
+    } else {
+        model <- matchit(formula = match_formula, data = dataset)
+        saveRDS(model, file = output_file)
+    }
+
+    matched <- match.data(model) |>
+        write_csv(output_data_file)
+
+    out <- list(
+        match_model = model,
+        model_data = matched
+    )
+    out
 }
 
-matched <- match.data(model) |>
-    write_csv("results/matched/matched_depression.csv")
 
-# Matched Enteritis
-dataset <- open_dataset("parquet/ccaei103") |>
-    select(ENROLID, regional_enteritis, AGE, SEX) |>
-    filter(AGE <= 65, AGE >= 18) |>
-    distinct() |>
-    collect() |>
-    mutate(SEX = as.numeric(SEX) - 1) |>
-    drop_na(ENROLID, AGE, SEX) |>
-    rename_with(str_to_upper)
+diseases <- c("depression", "regional_enteritis")
 
 
-if (file.exists("datastore/matched_ibm_enteritis.RData")) {
-    load("datastore/matched_ibm_enteritis.RData")
-} else {
-    model <- matchit(REGIONAL_ENTERITIS ~ SEX + AGE, data = dataset)
-    save(model, file = "datastore/matched_ibm_enteritis.RData")
-}
-
-matched <- match.data(model) |>
-    write_csv("results/matched/matched_regional_enteritis.csv")
+walk(diseases, match_patients)
