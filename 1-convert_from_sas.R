@@ -18,9 +18,7 @@ xpt_files <- sas_files |>
 
 data_files <- xpt_files |>
     map(~ read.xport(.x)) |>
-    {
-        \(x) map2(x, names(x), ~ saveRDS(.x, file.path("rds", str_glue("{.y}.RDS"))))
-    }()
+    imap(~ saveRDS(.x,  file.path("rds", str_glue("{.y}.RDS"))))
 
 unlink(xpt_files)
 
