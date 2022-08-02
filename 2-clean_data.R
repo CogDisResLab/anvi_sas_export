@@ -3,8 +3,8 @@
 library(tidyverse)
 library(arrow)
 
-source("icd9_codes.R")
-source("variables.R")
+source("m-icd9_codes.R")
+source("m-variables.R")
 
 ccaei103 <- readRDS("rds/ccaei103.RDS")
 ccaea10a <- readRDS("rds/ccaea10a.RDS")
