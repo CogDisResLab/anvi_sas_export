@@ -18,7 +18,7 @@ ccaei103_clean <- ccaei103 |>
         DX %in% anxiety ~ "anxiety",
         DX %in% bipolar ~ "bipolar",
         DX %in% depression ~ "depression",
-        DX %in% diabetes ~ "Diabetes",
+        DX %in% diabetes ~ "diabetes",
         DX %in% drug_dependence ~ "drug_dependence",
         DX %in% hypertension ~ "hypertension",
         DX %in% lipid_metabolism ~ "lipid_metabolism",
