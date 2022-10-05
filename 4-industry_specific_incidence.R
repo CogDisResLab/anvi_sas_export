@@ -62,7 +62,9 @@ calculate_state_incidences <- function(disease, var) {
     rates
 }
 
-diseases <- c("depression", "regional_enteritis")
+diseases <- c("depression", "regional_enteritis", "alcohol_dependence", "anxiety",
+              "bipolar", "diabetes", "drug_dependence", "hypertension",
+              "lipid_metabolism", "obesity", "schizophrenia", "suicide")
 
 diseases |>
     walk(~ calculate_state_incidences(.x, "INDSTRY"))
