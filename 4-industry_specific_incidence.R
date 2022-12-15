@@ -27,7 +27,10 @@ calculate_state_incidences <- function(disease, var) {
         str_glue("sas_{str_to_lower(var)}_codes.csv")
     )
 
-    var_codes <- read_csv(var_code_file, col_types = cols(.default = col_character()))
+    var_codes <- read_csv(var_code_file, col_types = cols(.default = col_character())) |>
+        rename(!!var := NAME)
+
+    annotation <- expand_grid(state_codes, var_codes)
 
     matched <- read_csv(matched_data_file) |>
         pull(ENROLID)
@@ -41,22 +44,22 @@ calculate_state_incidences <- function(disease, var) {
         group_by(var, disease, STATE) |>
         distinct() |>
         collect() |>
+        filter(var %in% var_codes$CODE) |>
         summarise(num = sum(disease)) |>
         filter(disease == 1,
                var != "") |>
         select(-disease) |>
-        right_join(var_codes, by = c("var" = "CODE")) |>
-        right_join(state_codes, by = "STATE") |>
+        full_join(annotation, by = c("var" = "CODE", "STATE" = "STATE")) |>
         ungroup() |>
         select(-STATE, -var, -disease) |>
-        rename(STATE = NAME.y,
-               !!var := NAME.x,
-               CASES = num)
+        rename(CASES = num,
+               STATE = NAME) |>
+        mutate(CASES = if_else(is.na(CASES), 0, CASES))
 
     rates <- inner_join(population, ccaei103) |>
         mutate(DS_RATE = round(CASES / STD_POP_DS, 4),
                CS_RATE = round(CASES / STD_POP_CS, 4)) |>
-        select(STATE, INDSTRY, CASES, CENSUSPOP, DS_POP, CS_RATE, DS_RATE) |>
+        select(STATE, !!var, CASES, CENSUSPOP, DS_POP, CS_RATE, DS_RATE) |>
         write_csv(rate_output_file)
 
     rates

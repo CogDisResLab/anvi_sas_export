@@ -115,6 +115,7 @@ Iowa,Hourly Union,2,3046355,7809,0.0657,0.2561
 Iowa,Hourly Other,16,3046355,7809,0.5252,2.0489
 Iowa,Non-union,5,3046355,7809,0.1641,0.6403
 Iowa,Unknown,21,3046355,7809,0.6893,2.6892
+Iowa,Union,0,3046355,7809,0,0
 California,Salary Non-union,5188,37253956,110781,13.926,46.8311
 California,Salary Union,54,37253956,110781,0.145,0.4874
 California,Salary Other,333,37253956,110781,0.8939,3.0059
@@ -132,6 +133,7 @@ Wisconsin,Hourly Other,13,5686986,11819,0.2286,1.0999
 Wisconsin,Non-union,12,5686986,11819,0.211,1.0153
 Wisconsin,Union,5,5686986,11819,0.0879,0.423
 Wisconsin,Unknown,31,5686986,11819,0.5451,2.6229
+Wisconsin,Hourly Union,0,5686986,11819,0,0
 Michigan,Salary Non-union,1802,9883640,60017,18.2321,30.0248
 Michigan,Salary Union,49,9883640,60017,0.4958,0.8164
 Michigan,Salary Other,1998,9883640,60017,20.2152,33.2906
@@ -155,6 +157,10 @@ Maine,Salary Other,12,1328361,2387,0.9034,5.0272
 Maine,Hourly Union,2,1328361,2387,0.1506,0.8379
 Maine,Hourly Other,2,1328361,2387,0.1506,0.8379
 Maine,Unknown,5,1328361,2387,0.3764,2.0947
+Maine,Salary Union,0,1328361,2387,0,0
+Maine,Hourly Non-union,0,1328361,2387,0,0
+Maine,Non-union,0,1328361,2387,0,0
+Maine,Union,0,1328361,2387,0,0
 Nevada,Salary Non-union,235,2700551,7302,8.7019,32.183
 Nevada,Salary Union,11,2700551,7302,0.4073,1.5064
 Nevada,Salary Other,46,2700551,7302,1.7034,6.2996
@@ -207,6 +213,8 @@ New Mexico,Hourly Non-union,3,2059179,2122,0.1457,1.4138
 New Mexico,Hourly Union,5,2059179,2122,0.2428,2.3563
 New Mexico,Hourly Other,4,2059179,2122,0.1943,1.885
 New Mexico,Unknown,12,2059179,2122,0.5828,5.655
+New Mexico,Non-union,0,2059179,2122,0,0
+New Mexico,Union,0,2059179,2122,0,0
 Virginia,Salary Non-union,633,8001024,16696,7.9115,37.9133
 Virginia,Salary Union,16,8001024,16696,0.2,0.9583
 Virginia,Salary Other,159,8001024,16696,1.9872,9.5232
@@ -222,6 +230,9 @@ Wyoming,Salary Other,2,563626,756,0.3548,2.6455
 Wyoming,Hourly Non-union,2,563626,756,0.3548,2.6455
 Wyoming,Hourly Union,1,563626,756,0.1774,1.3228
 Wyoming,Hourly Other,1,563626,756,0.1774,1.3228
+Wyoming,Non-union,0,563626,756,0,0
+Wyoming,Union,0,563626,756,0,0
+Wyoming,Unknown,0,563626,756,0,0
 Missouri,Salary Non-union,1091,5988927,30140,18.217,36.1977
 Missouri,Salary Union,8,5988927,30140,0.1336,0.2654
 Missouri,Salary Other,433,5988927,30140,7.23,14.3663
@@ -246,6 +257,9 @@ Idaho,Salary Other,6,1567582,2345,0.3828,2.5586
 Idaho,Hourly Union,11,1567582,2345,0.7017,4.6908
 Idaho,Hourly Other,4,1567582,2345,0.2552,1.7058
 Idaho,Unknown,3,1567582,2345,0.1914,1.2793
+Idaho,Hourly Non-union,0,1567582,2345,0,0
+Idaho,Non-union,0,1567582,2345,0,0
+Idaho,Union,0,1567582,2345,0,0
 West Virginia,Salary Non-union,152,1852994,3558,8.2029,42.7206
 West Virginia,Salary Union,2,1852994,3558,0.1079,0.5621
 West Virginia,Salary Other,74,1852994,3558,3.9935,20.7982
@@ -288,6 +302,9 @@ Rhode Island,Salary Other,12,1052567,4223,1.1401,2.8416
 Rhode Island,Hourly Other,2,1052567,4223,0.19,0.4736
 Rhode Island,Non-union,6,1052567,4223,0.57,1.4208
 Rhode Island,Unknown,9,1052567,4223,0.8551,2.1312
+Rhode Island,Hourly Non-union,0,1052567,4223,0,0
+Rhode Island,Hourly Union,0,1052567,4223,0,0
+Rhode Island,Union,0,1052567,4223,0,0
 Colorado,Salary Non-union,329,5029196,12893,6.5418,25.5177
 Colorado,Salary Union,13,5029196,12893,0.2585,1.0083
 Colorado,Salary Other,56,5029196,12893,1.1135,4.3434
@@ -339,6 +356,9 @@ Alaska,Hourly Non-union,1,710231,1193,0.1408,0.8382
 Alaska,Hourly Union,1,710231,1193,0.1408,0.8382
 Alaska,Hourly Other,1,710231,1193,0.1408,0.8382
 Alaska,Unknown,1,710231,1193,0.1408,0.8382
+Alaska,Salary Union,0,710231,1193,0,0
+Alaska,Non-union,0,710231,1193,0,0
+Alaska,Union,0,710231,1193,0,0
 South Carolina,Salary Non-union,326,4625364,8448,7.0481,38.589
 South Carolina,Salary Union,10,4625364,8448,0.2162,1.1837
 South Carolina,Salary Other,91,4625364,8448,1.9674,10.7718
@@ -391,6 +411,8 @@ Montana,Hourly Union,9,989415,1110,0.9096,8.1081
 Montana,Hourly Other,1,989415,1110,0.1011,0.9009
 Montana,Non-union,1,989415,1110,0.1011,0.9009
 Montana,Unknown,2,989415,1110,0.2021,1.8018
+Montana,Salary Union,0,989415,1110,0,0
+Montana,Union,0,989415,1110,0,0
 North Dakota,Salary Non-union,34,672591,829,5.0551,41.0133
 North Dakota,Salary Other,2,672591,829,0.2974,2.4125
 North Dakota,Hourly Union,1,672591,829,0.1487,1.2063
@@ -398,16 +420,26 @@ North Dakota,Hourly Other,1,672591,829,0.1487,1.2063
 North Dakota,Non-union,2,672591,829,0.2974,2.4125
 North Dakota,Union,1,672591,829,0.1487,1.2063
 North Dakota,Unknown,1,672591,829,0.1487,1.2063
+North Dakota,Salary Union,0,672591,829,0,0
+North Dakota,Hourly Non-union,0,672591,829,0,0
 South Dakota,Salary Non-union,53,814180,1257,6.5096,42.1639
 South Dakota,Salary Other,3,814180,1257,0.3685,2.3866
 South Dakota,Hourly Union,1,814180,1257,0.1228,0.7955
 South Dakota,Hourly Other,7,814180,1257,0.8598,5.5688
 South Dakota,Non-union,1,814180,1257,0.1228,0.7955
 South Dakota,Unknown,2,814180,1257,0.2456,1.5911
+South Dakota,Salary Union,0,814180,1257,0,0
+South Dakota,Hourly Non-union,0,814180,1257,0,0
+South Dakota,Union,0,814180,1257,0,0
 Hawaii,Salary Non-union,6,1360301,230,0.4411,26.087
 Hawaii,Salary Union,1,1360301,230,0.0735,4.3478
 Hawaii,Salary Other,7,1360301,230,0.5146,30.4348
 Hawaii,Hourly Union,1,1360301,230,0.0735,4.3478
+Hawaii,Hourly Non-union,0,1360301,230,0,0
+Hawaii,Hourly Other,0,1360301,230,0,0
+Hawaii,Non-union,0,1360301,230,0,0
+Hawaii,Union,0,1360301,230,0,0
+Hawaii,Unknown,0,1360301,230,0,0
 Vermont,Salary Non-union,14,625741,686,2.2373,20.4082
 Vermont,Salary Other,7,625741,686,1.1187,10.2041
 Vermont,Hourly Non-union,1,625741,686,0.1598,1.4577
@@ -415,8 +447,14 @@ Vermont,Hourly Union,1,625741,686,0.1598,1.4577
 Vermont,Non-union,1,625741,686,0.1598,1.4577
 Vermont,Union,1,625741,686,0.1598,1.4577
 Vermont,Unknown,1,625741,686,0.1598,1.4577
+Vermont,Salary Union,0,625741,686,0,0
+Vermont,Hourly Other,0,625741,686,0,0
 Puerto Rico,Salary Non-union,6,3725789,728,0.161,8.2418
 Puerto Rico,Salary Other,1,3725789,728,0.0268,1.3736
 Puerto Rico,Hourly Other,1,3725789,728,0.0268,1.3736
 Puerto Rico,Non-union,2,3725789,728,0.0537,2.7473
 Puerto Rico,Unknown,1,3725789,728,0.0268,1.3736
+Puerto Rico,Salary Union,0,3725789,728,0,0
+Puerto Rico,Hourly Non-union,0,3725789,728,0,0
+Puerto Rico,Hourly Union,0,3725789,728,0,0
+Puerto Rico,Union,0,3725789,728,0,0
