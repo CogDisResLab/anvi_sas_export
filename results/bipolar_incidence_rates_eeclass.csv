@@ -1,0 +1,384 @@
+STATE,EECLASS,CASES,CENSUSPOP,DS_POP,CS_RATE,DS_RATE
+Ohio,Salary Non-union,131,11536504,51710,1.1355,2.5334
+Ohio,Salary Union,19,11536504,51710,0.1647,0.3674
+Ohio,Salary Other,42,11536504,51710,0.3641,0.8122
+Ohio,Hourly Non-union,126,11536504,51710,1.0922,2.4367
+Ohio,Hourly Union,258,11536504,51710,2.2364,4.9894
+Ohio,Hourly Other,33,11536504,51710,0.286,0.6382
+Ohio,Non-union,38,11536504,51710,0.3294,0.7349
+Ohio,Union,84,11536504,51710,0.7281,1.6244
+Ohio,Unknown,41,11536504,51710,0.3554,0.7929
+Arkansas,Salary Non-union,14,2915918,6972,0.4801,2.008
+Arkansas,Salary Other,1,2915918,6972,0.0343,0.1434
+Arkansas,Hourly Non-union,21,2915918,6972,0.7202,3.012
+Arkansas,Hourly Union,11,2915918,6972,0.3772,1.5777
+Arkansas,Hourly Other,2,2915918,6972,0.0686,0.2869
+Arkansas,Non-union,7,2915918,6972,0.2401,1.004
+Arkansas,Union,1,2915918,6972,0.0343,0.1434
+Arkansas,Unknown,7,2915918,6972,0.2401,1.004
+New York,Salary Non-union,88,19378102,38153,0.4541,2.3065
+New York,Salary Union,1,19378102,38153,0.0052,0.0262
+New York,Salary Other,23,19378102,38153,0.1187,0.6028
+New York,Hourly Non-union,44,19378102,38153,0.2271,1.1533
+New York,Hourly Union,114,19378102,38153,0.5883,2.988
+New York,Hourly Other,11,19378102,38153,0.0568,0.2883
+New York,Non-union,29,19378102,38153,0.1497,0.7601
+New York,Union,5,19378102,38153,0.0258,0.1311
+New York,Unknown,46,19378102,38153,0.2374,1.2057
+Pennsylvania,Salary Non-union,92,12702379,29461,0.7243,3.1228
+Pennsylvania,Salary Union,2,12702379,29461,0.0157,0.0679
+Pennsylvania,Salary Other,12,12702379,29461,0.0945,0.4073
+Pennsylvania,Hourly Non-union,77,12702379,29461,0.6062,2.6136
+Pennsylvania,Hourly Union,61,12702379,29461,0.4802,2.0705
+Pennsylvania,Hourly Other,18,12702379,29461,0.1417,0.611
+Pennsylvania,Non-union,43,12702379,29461,0.3385,1.4596
+Pennsylvania,Union,16,12702379,29461,0.126,0.5431
+Pennsylvania,Unknown,52,12702379,29461,0.4094,1.765
+Georgia,Salary Non-union,111,9687653,68782,1.1458,1.6138
+Georgia,Salary Union,5,9687653,68782,0.0516,0.0727
+Georgia,Salary Other,23,9687653,68782,0.2374,0.3344
+Georgia,Hourly Non-union,104,9687653,68782,1.0735,1.512
+Georgia,Hourly Union,91,9687653,68782,0.9393,1.323
+Georgia,Hourly Other,12,9687653,68782,0.1239,0.1745
+Georgia,Non-union,390,9687653,68782,4.0257,5.6701
+Georgia,Union,15,9687653,68782,0.1548,0.2181
+Georgia,Unknown,75,9687653,68782,0.7742,1.0904
+Indiana,Salary Non-union,19,6483802,20266,0.293,0.9375
+Indiana,Salary Union,2,6483802,20266,0.0308,0.0987
+Indiana,Salary Other,6,6483802,20266,0.0925,0.2961
+Indiana,Hourly Non-union,41,6483802,20266,0.6323,2.0231
+Indiana,Hourly Union,101,6483802,20266,1.5577,4.9837
+Indiana,Hourly Other,11,6483802,20266,0.1697,0.5428
+Indiana,Non-union,14,6483802,20266,0.2159,0.6908
+Indiana,Union,10,6483802,20266,0.1542,0.4934
+Indiana,Unknown,29,6483802,20266,0.4473,1.431
+Illinois,Salary Non-union,110,12830632,36586,0.8573,3.0066
+Illinois,Salary Union,3,12830632,36586,0.0234,0.082
+Illinois,Salary Other,38,12830632,36586,0.2962,1.0386
+Illinois,Hourly Non-union,78,12830632,36586,0.6079,2.132
+Illinois,Hourly Union,102,12830632,36586,0.795,2.788
+Illinois,Hourly Other,19,12830632,36586,0.1481,0.5193
+Illinois,Non-union,61,12830632,36586,0.4754,1.6673
+Illinois,Union,22,12830632,36586,0.1715,0.6013
+Illinois,Unknown,42,12830632,36586,0.3273,1.148
+Louisiana,Salary Non-union,18,4533372,9513,0.3971,1.8921
+Louisiana,Salary Union,1,4533372,9513,0.0221,0.1051
+Louisiana,Salary Other,10,4533372,9513,0.2206,1.0512
+Louisiana,Hourly Non-union,14,4533372,9513,0.3088,1.4717
+Louisiana,Hourly Union,30,4533372,9513,0.6618,3.1536
+Louisiana,Hourly Other,4,4533372,9513,0.0882,0.4205
+Louisiana,Non-union,17,4533372,9513,0.375,1.787
+Louisiana,Union,3,4533372,9513,0.0662,0.3154
+Louisiana,Unknown,15,4533372,9513,0.3309,1.5768
+Maryland,Salary Non-union,50,5773552,13274,0.866,3.7668
+Maryland,Salary Union,1,5773552,13274,0.0173,0.0753
+Maryland,Salary Other,1,5773552,13274,0.0173,0.0753
+Maryland,Hourly Non-union,39,5773552,13274,0.6755,2.9381
+Maryland,Hourly Union,39,5773552,13274,0.6755,2.9381
+Maryland,Hourly Other,5,5773552,13274,0.0866,0.3767
+Maryland,Non-union,16,5773552,13274,0.2771,1.2054
+Maryland,Union,7,5773552,13274,0.1212,0.5273
+Maryland,Unknown,34,5773552,13274,0.5889,2.5614
+Texas,Salary Non-union,228,25145561,86419,0.9067,2.6383
+Texas,Salary Union,7,25145561,86419,0.0278,0.081
+Texas,Salary Other,139,25145561,86419,0.5528,1.6084
+Texas,Hourly Non-union,231,25145561,86419,0.9187,2.673
+Texas,Hourly Union,213,25145561,86419,0.8471,2.4647
+Texas,Hourly Other,68,25145561,86419,0.2704,0.7869
+Texas,Non-union,85,25145561,86419,0.338,0.9836
+Texas,Union,26,25145561,86419,0.1034,0.3009
+Texas,Unknown,170,25145561,86419,0.6761,1.9672
+Florida,Salary Non-union,137,18801310,46533,0.7287,2.9441
+Florida,Salary Union,4,18801310,46533,0.0213,0.086
+Florida,Salary Other,23,18801310,46533,0.1223,0.4943
+Florida,Hourly Non-union,145,18801310,46533,0.7712,3.1161
+Florida,Hourly Union,112,18801310,46533,0.5957,2.4069
+Florida,Hourly Other,9,18801310,46533,0.0479,0.1934
+Florida,Non-union,102,18801310,46533,0.5425,2.192
+Florida,Union,8,18801310,46533,0.0426,0.1719
+Florida,Unknown,81,18801310,46533,0.4308,1.7407
+Oklahoma,Salary Non-union,27,3751351,8554,0.7197,3.1564
+Oklahoma,Salary Union,2,3751351,8554,0.0533,0.2338
+Oklahoma,Salary Other,6,3751351,8554,0.1599,0.7014
+Oklahoma,Hourly Non-union,21,3751351,8554,0.5598,2.455
+Oklahoma,Hourly Union,26,3751351,8554,0.6931,3.0395
+Oklahoma,Hourly Other,1,3751351,8554,0.0267,0.1169
+Oklahoma,Non-union,7,3751351,8554,0.1866,0.8183
+Oklahoma,Union,4,3751351,8554,0.1066,0.4676
+Oklahoma,Unknown,11,3751351,8554,0.2932,1.2859
+Iowa,Salary Non-union,29,3046355,7809,0.952,3.7137
+Iowa,Salary Union,2,3046355,7809,0.0657,0.2561
+Iowa,Salary Other,2,3046355,7809,0.0657,0.2561
+Iowa,Hourly Non-union,15,3046355,7809,0.4924,1.9209
+Iowa,Hourly Union,18,3046355,7809,0.5909,2.305
+Iowa,Hourly Other,1,3046355,7809,0.0328,0.1281
+Iowa,Non-union,3,3046355,7809,0.0985,0.3842
+Iowa,Unknown,11,3046355,7809,0.3611,1.4086
+California,Salary Non-union,150,37253956,110781,0.4026,1.354
+California,Salary Union,4,37253956,110781,0.0107,0.0361
+California,Salary Other,30,37253956,110781,0.0805,0.2708
+California,Hourly Non-union,93,37253956,110781,0.2496,0.8395
+California,Hourly Union,57,37253956,110781,0.153,0.5145
+California,Hourly Other,17,37253956,110781,0.0456,0.1535
+California,Non-union,99,37253956,110781,0.2657,0.8937
+California,Union,155,37253956,110781,0.4161,1.3992
+California,Unknown,1236,37253956,110781,3.3178,11.1571
+Wisconsin,Salary Non-union,43,5686986,11819,0.7561,3.6382
+Wisconsin,Salary Union,1,5686986,11819,0.0176,0.0846
+Wisconsin,Salary Other,6,5686986,11819,0.1055,0.5077
+Wisconsin,Hourly Non-union,46,5686986,11819,0.8089,3.892
+Wisconsin,Hourly Union,35,5686986,11819,0.6154,2.9613
+Wisconsin,Hourly Other,6,5686986,11819,0.1055,0.5077
+Wisconsin,Non-union,14,5686986,11819,0.2462,1.1845
+Wisconsin,Union,4,5686986,11819,0.0703,0.3384
+Wisconsin,Unknown,4,5686986,11819,0.0703,0.3384
+Michigan,Salary Non-union,177,9883640,60017,1.7908,2.9492
+Michigan,Salary Union,217,9883640,60017,2.1955,3.6156
+Michigan,Salary Other,13,9883640,60017,0.1315,0.2166
+Michigan,Hourly Non-union,66,9883640,60017,0.6678,1.0997
+Michigan,Hourly Union,562,9883640,60017,5.6862,9.364
+Michigan,Hourly Other,18,9883640,60017,0.1821,0.2999
+Michigan,Non-union,23,9883640,60017,0.2327,0.3832
+Michigan,Union,34,9883640,60017,0.344,0.5665
+Michigan,Unknown,30,9883640,60017,0.3035,0.4999
+Mississippi,Salary Non-union,11,2967297,17188,0.3707,0.64
+Mississippi,Hourly Non-union,16,2967297,17188,0.5392,0.9309
+Mississippi,Hourly Union,20,2967297,17188,0.674,1.1636
+Mississippi,Hourly Other,1,2967297,17188,0.0337,0.0582
+Mississippi,Non-union,101,2967297,17188,3.4038,5.8762
+Mississippi,Union,14,2967297,17188,0.4718,0.8145
+Mississippi,Unknown,8,2967297,17188,0.2696,0.4654
+Maine,Salary Non-union,6,1328361,2387,0.4517,2.5136
+Maine,Hourly Non-union,7,1328361,2387,0.527,2.9326
+Maine,Non-union,1,1328361,2387,0.0753,0.4189
+Maine,Unknown,9,1328361,2387,0.6775,3.7704
+Nevada,Salary Non-union,6,2700551,7302,0.2222,0.8217
+Nevada,Salary Other,3,2700551,7302,0.1111,0.4108
+Nevada,Hourly Non-union,26,2700551,7302,0.9628,3.5607
+Nevada,Hourly Union,13,2700551,7302,0.4814,1.7803
+Nevada,Hourly Other,2,2700551,7302,0.0741,0.2739
+Nevada,Non-union,5,2700551,7302,0.1851,0.6847
+Nevada,Union,1,2700551,7302,0.037,0.1369
+Nevada,Unknown,30,2700551,7302,1.1109,4.1085
+Minnesota,Salary Non-union,29,5303925,10881,0.5468,2.6652
+Minnesota,Salary Union,3,5303925,10881,0.0566,0.2757
+Minnesota,Salary Other,1,5303925,10881,0.0189,0.0919
+Minnesota,Hourly Non-union,38,5303925,10881,0.7165,3.4923
+Minnesota,Hourly Union,10,5303925,10881,0.1885,0.919
+Minnesota,Non-union,15,5303925,10881,0.2828,1.3785
+Minnesota,Unknown,12,5303925,10881,0.2262,1.1028
+Tennessee,Salary Non-union,69,6346105,39193,1.0873,1.7605
+Tennessee,Salary Union,1,6346105,39193,0.0158,0.0255
+Tennessee,Salary Other,5,6346105,39193,0.0788,0.1276
+Tennessee,Hourly Non-union,117,6346105,39193,1.8437,2.9852
+Tennessee,Hourly Union,80,6346105,39193,1.2606,2.0412
+Tennessee,Hourly Other,20,6346105,39193,0.3152,0.5103
+Tennessee,Non-union,36,6346105,39193,0.5673,0.9185
+Tennessee,Union,3,6346105,39193,0.0473,0.0765
+Tennessee,Unknown,223,6346105,39193,3.514,5.6898
+Kentucky,Salary Non-union,14,4339367,12082,0.3226,1.1587
+Kentucky,Salary Union,3,4339367,12082,0.0691,0.2483
+Kentucky,Salary Other,6,4339367,12082,0.1383,0.4966
+Kentucky,Hourly Non-union,22,4339367,12082,0.507,1.8209
+Kentucky,Hourly Union,45,4339367,12082,1.037,3.7245
+Kentucky,Hourly Other,4,4339367,12082,0.0922,0.3311
+Kentucky,Non-union,6,4339367,12082,0.1383,0.4966
+Kentucky,Union,1,4339367,12082,0.023,0.0828
+Kentucky,Unknown,35,4339367,12082,0.8066,2.8969
+Arizona,Salary Non-union,46,6392017,24762,0.7196,1.8577
+Arizona,Salary Union,3,6392017,24762,0.0469,0.1212
+Arizona,Salary Other,19,6392017,24762,0.2972,0.7673
+Arizona,Hourly Non-union,83,6392017,24762,1.2985,3.3519
+Arizona,Hourly Union,21,6392017,24762,0.3285,0.8481
+Arizona,Hourly Other,17,6392017,24762,0.266,0.6865
+Arizona,Non-union,33,6392017,24762,0.5163,1.3327
+Arizona,Union,3,6392017,24762,0.0469,0.1212
+Arizona,Unknown,68,6392017,24762,1.0638,2.7461
+New Mexico,Salary Non-union,9,2059179,2122,0.4371,4.2413
+New Mexico,Hourly Non-union,5,2059179,2122,0.2428,2.3563
+New Mexico,Non-union,3,2059179,2122,0.1457,1.4138
+New Mexico,Union,1,2059179,2122,0.0486,0.4713
+New Mexico,Unknown,7,2059179,2122,0.3399,3.2988
+Virginia,Salary Non-union,47,8001024,16696,0.5874,2.815
+Virginia,Salary Other,11,8001024,16696,0.1375,0.6588
+Virginia,Hourly Non-union,54,8001024,16696,0.67490000000000006,3.2343
+Virginia,Hourly Union,25,8001024,16696,0.3125,1.4974
+Virginia,Hourly Other,6,8001024,16696,0.075,0.3594
+Virginia,Non-union,35,8001024,16696,0.4374,2.0963
+Virginia,Union,3,8001024,16696,0.0375,0.1797
+Virginia,Unknown,41,8001024,16696,0.5124,2.4557
+Wyoming,Hourly Non-union,1,563626,756,0.1774,1.3228
+Wyoming,Hourly Other,1,563626,756,0.1774,1.3228
+Wyoming,Non-union,2,563626,756,0.3548,2.6455
+Wyoming,Union,1,563626,756,0.1774,1.3228
+Missouri,Salary Non-union,88,5988927,30140,1.4694,2.9197
+Missouri,Salary Union,6,5988927,30140,0.1002,0.1991
+Missouri,Salary Other,12,5988927,30140,0.2004,0.3981
+Missouri,Hourly Non-union,76,5988927,30140,1.269,2.5216
+Missouri,Hourly Union,151,5988927,30140,2.5213,5.01
+Missouri,Hourly Other,21,5988927,30140,0.3506,0.6967
+Missouri,Non-union,12,5988927,30140,0.2004,0.3981
+Missouri,Union,12,5988927,30140,0.2004,0.3981
+Missouri,Unknown,113,5988927,30140,1.8868,3.7492
+Washington,Salary Non-union,44,6724540,18780,0.6543,2.3429
+Washington,Salary Union,13,6724540,18780,0.1933,0.6922
+Washington,Salary Other,5,6724540,18780,0.0744,0.2662
+Washington,Hourly Non-union,25,6724540,18780,0.3718,1.3312
+Washington,Hourly Union,45,6724540,18780,0.6692,2.3962
+Washington,Hourly Other,4,6724540,18780,0.0595,0.213
+Washington,Non-union,10,6724540,18780,0.1487,0.5325
+Washington,Union,6,6724540,18780,0.0892,0.3195
+Washington,Unknown,22,6724540,18780,0.3272,1.1715
+Idaho,Salary Non-union,3,1567582,2345,0.1914,1.2793
+Idaho,Salary Other,3,1567582,2345,0.1914,1.2793
+Idaho,Hourly Non-union,19,1567582,2345,1.2121,8.1023
+Idaho,Hourly Other,1,1567582,2345,0.0638,0.4264
+Idaho,Non-union,2,1567582,2345,0.1276,0.8529
+Idaho,Union,3,1567582,2345,0.1914,1.2793
+Idaho,Unknown,21,1567582,2345,1.3396,8.9552
+West Virginia,Salary Non-union,2,1852994,3558,0.1079,0.5621
+West Virginia,Salary Other,2,1852994,3558,0.1079,0.5621
+West Virginia,Hourly Non-union,9,1852994,3558,0.4857,2.5295
+West Virginia,Hourly Union,13,1852994,3558,0.7016,3.6537
+West Virginia,Hourly Other,2,1852994,3558,0.1079,0.5621
+West Virginia,Union,1,1852994,3558,0.054,0.2811
+West Virginia,Unknown,7,1852994,3558,0.3778,1.9674
+Massachusetts,Salary Non-union,75,6547629,27050,1.1455,2.7726
+Massachusetts,Salary Union,3,6547629,27050,0.0458,0.1109
+Massachusetts,Salary Other,14,6547629,27050,0.2138,0.5176
+Massachusetts,Hourly Non-union,79,6547629,27050,1.2065,2.9205
+Massachusetts,Hourly Union,77,6547629,27050,1.176,2.8466
+Massachusetts,Hourly Other,7,6547629,27050,0.1069,0.2588
+Massachusetts,Non-union,31,6547629,27050,0.4735,1.146
+Massachusetts,Union,11,6547629,27050,0.168,0.4067
+Massachusetts,Unknown,47,6547629,27050,0.7178,1.7375
+North Carolina,Salary Non-union,66,9535483,22713,0.6922,2.9058
+North Carolina,Salary Other,7,9535483,22713,0.0734,0.3082
+North Carolina,Hourly Non-union,67,9535483,22713,0.7026,2.9499
+North Carolina,Hourly Union,23,9535483,22713,0.2412,1.0126
+North Carolina,Hourly Other,9,9535483,22713,0.0944,0.3962
+North Carolina,Non-union,26,9535483,22713,0.2727,1.1447
+North Carolina,Union,4,9535483,22713,0.0419,0.1761
+North Carolina,Unknown,34,9535483,22713,0.3566,1.4969
+Oregon,Salary Non-union,12,3831074,15289,0.3132,0.7849
+Oregon,Salary Union,3,3831074,15289,0.0783,0.1962
+Oregon,Salary Other,15,3831074,15289,0.3915,0.9811
+Oregon,Hourly Non-union,26,3831074,15289,0.6787,1.7006
+Oregon,Hourly Union,9,3831074,15289,0.2349,0.5887
+Oregon,Hourly Other,8,3831074,15289,0.2088,0.5233
+Oregon,Non-union,9,3831074,15289,0.2349,0.5887
+Oregon,Union,38,3831074,15289,0.9919,2.4854
+Oregon,Unknown,9,3831074,15289,0.2349,0.5887
+Rhode Island,Salary Non-union,5,1052567,4223,0.475,1.184
+Rhode Island,Salary Other,1,1052567,4223,0.095,0.2368
+Rhode Island,Hourly Non-union,12,1052567,4223,1.1401,2.8416
+Rhode Island,Hourly Union,8,1052567,4223,0.76,1.8944
+Rhode Island,Non-union,4,1052567,4223,0.38,0.9472
+Rhode Island,Union,3,1052567,4223,0.285,0.7104
+Rhode Island,Unknown,6,1052567,4223,0.57,1.4208
+Colorado,Salary Non-union,30,5029196,12893,0.5965,2.3268
+Colorado,Salary Other,5,5029196,12893,0.0994,0.3878
+Colorado,Hourly Non-union,40,5029196,12893,0.7954,3.1025
+Colorado,Hourly Union,8,5029196,12893,0.1591,0.6205
+Colorado,Hourly Other,5,5029196,12893,0.0994,0.3878
+Colorado,Non-union,17,5029196,12893,0.338,1.3185
+Colorado,Union,6,5029196,12893,0.1193,0.4654
+Colorado,Unknown,66,5029196,12893,1.3123,5.1191
+Connecticut,Salary Non-union,38,3574097,14366,1.0632,2.6451
+Connecticut,Salary Union,1,3574097,14366,0.028,0.0696
+Connecticut,Salary Other,2,3574097,14366,0.056,0.1392
+Connecticut,Hourly Non-union,24,3574097,14366,0.6715,1.6706
+Connecticut,Hourly Union,35,3574097,14366,0.9793,2.4363
+Connecticut,Hourly Other,1,3574097,14366,0.028,0.0696
+Connecticut,Non-union,4,3574097,14366,0.1119,0.2784
+Connecticut,Union,3,3574097,14366,0.0839,0.2088
+Connecticut,Unknown,45,3574097,14366,1.2591,3.1324
+New Hampshire,Salary Non-union,10,1316470,3257,0.7596,3.0703
+New Hampshire,Salary Union,1,1316470,3257,0.076,0.307
+New Hampshire,Salary Other,4,1316470,3257,0.3038,1.2281
+New Hampshire,Hourly Non-union,14,1316470,3257,1.0634,4.2984
+New Hampshire,Hourly Union,7,1316470,3257,0.5317,2.1492
+New Hampshire,Hourly Other,6,1316470,3257,0.4558,1.8422
+New Hampshire,Non-union,8,1316470,3257,0.6077,2.4562
+New Hampshire,Union,1,1316470,3257,0.076,0.307
+New Hampshire,Unknown,6,1316470,3257,0.4558,1.8422
+New Jersey,Salary Non-union,91,8791894,25601,1.035,3.5545
+New Jersey,Salary Union,5,8791894,25601,0.0569,0.1953
+New Jersey,Salary Other,21,8791894,25601,0.2389,0.8203
+New Jersey,Hourly Non-union,63,8791894,25601,0.7166,2.4608
+New Jersey,Hourly Union,61,8791894,25601,0.6938,2.3827
+New Jersey,Hourly Other,9,8791894,25601,0.1024,0.3515
+New Jersey,Non-union,48,8791894,25601,0.546,1.8749
+New Jersey,Union,15,8791894,25601,0.1706,0.5859
+New Jersey,Unknown,58,8791894,25601,0.6597,2.2655
+Alabama,Salary Non-union,25,4779736,19688,0.523,1.2698
+Alabama,Salary Union,2,4779736,19688,0.0418,0.1016
+Alabama,Salary Other,1,4779736,19688,0.0209,0.0508
+Alabama,Hourly Non-union,35,4779736,19688,0.7323,1.7777
+Alabama,Hourly Union,37,4779736,19688,0.7741,1.8793
+Alabama,Hourly Other,7,4779736,19688,0.1465,0.3555
+Alabama,Non-union,25,4779736,19688,0.523,1.2698
+Alabama,Union,6,4779736,19688,0.1255,0.3048
+Alabama,Unknown,79,4779736,19688,1.6528,4.0126
+Alaska,Salary Other,1,710231,1193,0.1408,0.8382
+Alaska,Hourly Non-union,3,710231,1193,0.4224,2.5147
+Alaska,Unknown,1,710231,1193,0.1408,0.8382
+South Carolina,Salary Non-union,27,4625364,8448,0.5837,3.196
+South Carolina,Salary Other,3,4625364,8448,0.0649,0.3551
+South Carolina,Hourly Non-union,28,4625364,8448,0.6054,3.3144
+South Carolina,Hourly Union,12,4625364,8448,0.2594,1.4205
+South Carolina,Hourly Other,10,4625364,8448,0.2162,1.1837
+South Carolina,Non-union,8,4625364,8448,0.173,0.947
+South Carolina,Union,1,4625364,8448,0.0216,0.1184
+South Carolina,Unknown,14,4625364,8448,0.3027,1.6572
+Kansas,Salary Non-union,17,2853118,7854,0.5958,2.1645
+Kansas,Salary Union,3,2853118,7854,0.1051,0.382
+Kansas,Salary Other,4,2853118,7854,0.1402,0.5093
+Kansas,Hourly Non-union,26,2853118,7854,0.9113,3.3104
+Kansas,Hourly Union,18,2853118,7854,0.6309,2.2918
+Kansas,Non-union,7,2853118,7854,0.2453,0.8913
+Kansas,Union,2,2853118,7854,0.0701,0.2546
+Kansas,Unknown,15,2853118,7854,0.5257,1.9099
+Delaware,Salary Non-union,10,897934,8224,1.1137,1.216
+Delaware,Salary Other,9,897934,8224,1.0023,1.0944
+Delaware,Hourly Non-union,6,897934,8224,0.6682,0.7296
+Delaware,Hourly Union,18,897934,8224,2.0046,2.1887
+Delaware,Non-union,9,897934,8224,1.0023,1.0944
+Delaware,Union,4,897934,8224,0.4455,0.4864
+Delaware,Unknown,74,897934,8224,8.2411,8.9981
+Utah,Salary Non-union,13,2763885,11502,0.4704,1.1302
+Utah,Salary Union,1,2763885,11502,0.0362,0.0869
+Utah,Salary Other,4,2763885,11502,0.1447,0.3478
+Utah,Hourly Non-union,21,2763885,11502,0.7598,1.8258
+Utah,Hourly Union,3,2763885,11502,0.1085,0.2608
+Utah,Hourly Other,1,2763885,11502,0.0362,0.0869
+Utah,Non-union,94,2763885,11502,3.401,8.1725
+Utah,Union,2,2763885,11502,0.0724,0.1739
+Utah,Unknown,27,2763885,11502,0.9769,2.3474
+Nebraska,Salary Non-union,11,1826341,4084,0.6023,2.6934
+Nebraska,Salary Other,1,1826341,4084,0.0548,0.2449
+Nebraska,Hourly Non-union,21,1826341,4084,1.1498,5.142
+Nebraska,Hourly Union,7,1826341,4084,0.3833,1.714
+Nebraska,Non-union,8,1826341,4084,0.438,1.9589
+Nebraska,Union,1,1826341,4084,0.0548,0.2449
+Nebraska,Unknown,2,1826341,4084,0.1095,0.4897
+Montana,Salary Non-union,2,989415,1110,0.2021,1.8018
+Montana,Hourly Non-union,4,989415,1110,0.4043,3.6036
+Montana,Hourly Union,1,989415,1110,0.1011,0.9009
+Montana,Non-union,3,989415,1110,0.3032,2.7027
+Montana,Unknown,7,989415,1110,0.7075,6.3063
+North Dakota,Hourly Non-union,2,672591,829,0.2974,2.4125
+North Dakota,Non-union,1,672591,829,0.1487,1.2063
+North Dakota,Unknown,1,672591,829,0.1487,1.2063
+South Dakota,Salary Non-union,2,814180,1257,0.2456,1.5911
+South Dakota,Hourly Non-union,4,814180,1257,0.4913,3.1822
+South Dakota,Hourly Union,1,814180,1257,0.1228,0.7955
+Hawaii,Hourly Union,1,1360301,230,0.0735,4.3478
+Hawaii,Union,2,1360301,230,0.147,8.6957
+Vermont,Salary Non-union,1,625741,686,0.1598,1.4577
+Vermont,Salary Other,1,625741,686,0.1598,1.4577
+Vermont,Hourly Non-union,1,625741,686,0.1598,1.4577
+Vermont,Hourly Union,1,625741,686,0.1598,1.4577
+Vermont,Non-union,3,625741,686,0.4794,4.3732
+Puerto Rico,Salary Non-union,2,3725789,728,0.0537,2.7473
+Puerto Rico,Hourly Non-union,7,3725789,728,0.1879,9.6154
