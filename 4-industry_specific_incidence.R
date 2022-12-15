@@ -1,4 +1,4 @@
-# Calculate AGEGRP Specific Incidence
+# Calculate INDSTRY Specific Incidence
 
 
 library(arrow)
@@ -27,7 +27,7 @@ calculate_state_incidences <- function(disease, var) {
         str_glue("sas_{str_to_lower(var)}_codes.csv")
     )
 
-    var_codes <- read_csv(var_code_file)
+    var_codes <- read_csv(var_code_file, col_types = cols(.default = col_character()))
 
     matched <- read_csv(matched_data_file) |>
         pull(ENROLID)
