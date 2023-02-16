@@ -12,7 +12,7 @@ ccaea10a <- readRDS("rds/ccaea10a.RDS")
 ccaei103_clean <- ccaei103 |>
     select(any_of(variables)) |>
     drop_na(ENROLID) |>
-    pivot_longer(starts_with("DX"), names_to = "DXID", values_to = "DX") |>
+    pivot_longer(starts_with("DX") | starts_with("PDX"), names_to = "DXID", values_to = "DX") |>
     mutate(diagnosis = case_when(
         DX %in% alcohol_dependence ~ "alcohol_dependence",
         DX %in% anxiety ~ "anxiety",
@@ -30,7 +30,11 @@ ccaei103_clean <- ccaei103 |>
     ),
     value = if_else(is.na(diagnosis), 0, 1)) |>
     select(-DX, -DXID) |>
+    filter(!is.na(diagnosis)) |>
     distinct() |>
+    group_by(ENROLID) |>
+    filter(AGE == max(AGE)) |>
+    ungroup() |>
     pivot_wider(names_from = diagnosis, values_fill = 0) |>
     write_dataset(file.path("parquet", "ccaei103"))
 
