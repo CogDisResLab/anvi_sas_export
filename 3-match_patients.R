@@ -1,10 +1,11 @@
-# Get matched patients
+# Match Patients to controls for each disease
 #
 
 
 library(MatchIt)
 library(tidyverse)
 library(arrow)
+library(furrr)
 
 match_patients <- function(disease) {
     dataset <- open_dataset("parquet/ccaei103") |>
@@ -47,5 +48,7 @@ diseases <- c("depression", "regional_enteritis", "alcohol_dependence", "anxiety
               "bipolar", "diabetes", "drug_dependence", "hypertension",
               "lipid_metabolism", "obesity", "schizophrenia", "suicide")
 
-
-walk(diseases, match_patients)
+plan(multisession)
+matched <- diseases |>
+    future_map(diseases, match_patients)
+plan(sequential)
