@@ -19,6 +19,9 @@ calculate_state_incidences <- function(disease) {
 
     rate_output_file <- file.path(
         "results",
+        disease,
+        "incidence",
+        "state",
         str_glue("{disease}_incidence_rates_state.csv")
     )
 
@@ -45,7 +48,7 @@ calculate_state_incidences <- function(disease) {
     rates <- inner_join(population, ccaei103) |>
         mutate(DS_RATE = round(CASES / STD_POP_DS, 4),
                CS_RATE = round(CASES / STD_POP_CS, 4)) |>
-        select(STATE, CASES, CENSUSPOP, DS_POP, CS_RATE, DS_RATE) |>
+        select(STATE, CASES, CS_POP, DS_POP, CS_RATE, DS_RATE) |>
         write_csv(rate_output_file)
 
     rates
