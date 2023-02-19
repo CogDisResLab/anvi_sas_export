@@ -1,511 +1,511 @@
-STATE,INDSTRY,CASES,CENSUSPOP,DS_POP,CS_RATE,DS_RATE
-Ohio,"Oil & Gas Extraction, Mining",43,11536504,51710,0.3727,0.8316
-Ohio,"Manufacturing, Durable Goods",2058,11536504,51710,17.839,39.7989
-Ohio,"Manufacturing, Nondurable Goods",183,11536504,51710,1.5863,3.539
-Ohio,"Transportation, Communications, Utilities",440,11536504,51710,3.814,8.509
-Ohio,Retail Trade,171,11536504,51710,1.4823,3.3069
-Ohio,"Finance, Insurance, Real Estate",292,11536504,51710,2.5311,5.6469
-Ohio,Services,405,11536504,51710,3.5106,7.8321
-Ohio,Wholesale,4,11536504,51710,0.0347,0.0774
-Ohio,"Agriculture, Forestry, Fishing",0,11536504,51710,0,0
-Ohio,Construction,0,11536504,51710,0,0
-Arkansas,"Oil & Gas Extraction, Mining",4,2915918,6972,0.1372,0.5737
-Arkansas,"Manufacturing, Durable Goods",114,2915918,6972,3.9096,16.3511
-Arkansas,"Manufacturing, Nondurable Goods",183,2915918,6972,6.2759,26.2478
-Arkansas,"Transportation, Communications, Utilities",74,2915918,6972,2.5378,10.6139
-Arkansas,Retail Trade,17,2915918,6972,0.583,2.4383
-Arkansas,"Finance, Insurance, Real Estate",20,2915918,6972,0.6859,2.8686
-Arkansas,Services,30,2915918,6972,1.0288,4.3029
-Arkansas,Wholesale,1,2915918,6972,0.0343,0.1434
-Arkansas,"Agriculture, Forestry, Fishing",0,2915918,6972,0,0
-Arkansas,Construction,0,2915918,6972,0,0
-New York,"Manufacturing, Durable Goods",559,19378102,38153,2.8847,14.6515
-New York,"Manufacturing, Nondurable Goods",92,19378102,38153,0.4748,2.4113
-New York,"Transportation, Communications, Utilities",540,19378102,38153,2.7867,14.1535
-New York,Retail Trade,88,19378102,38153,0.4541,2.3065
-New York,"Finance, Insurance, Real Estate",333,19378102,38153,1.7184,8.728
-New York,Services,124,19378102,38153,0.6399,3.2501
-New York,Construction,1,19378102,38153,0.0052,0.0262
-New York,"Oil & Gas Extraction, Mining",0,19378102,38153,0,0
-New York,"Agriculture, Forestry, Fishing",0,19378102,38153,0,0
-New York,Wholesale,0,19378102,38153,0,0
-Pennsylvania,"Oil & Gas Extraction, Mining",5,12702379,29461,0.0394,0.1697
-Pennsylvania,"Manufacturing, Durable Goods",425,12702379,29461,3.3458,14.4259
-Pennsylvania,"Manufacturing, Nondurable Goods",205,12702379,29461,1.6139,6.9584
-Pennsylvania,"Transportation, Communications, Utilities",458,12702379,29461,3.6056,15.546
-Pennsylvania,Retail Trade,134,12702379,29461,1.0549,4.5484
-Pennsylvania,"Finance, Insurance, Real Estate",208,12702379,29461,1.6375,7.0602
-Pennsylvania,Services,121,12702379,29461,0.9526,4.1071
-Pennsylvania,Wholesale,6,12702379,29461,0.0472,0.2037
-Pennsylvania,"Agriculture, Forestry, Fishing",0,12702379,29461,0,0
-Pennsylvania,Construction,0,12702379,29461,0,0
-Georgia,"Oil & Gas Extraction, Mining",4,9687653,68782,0.0413,0.0582
-Georgia,"Manufacturing, Durable Goods",436,9687653,68782,4.5006,6.3389
-Georgia,"Manufacturing, Nondurable Goods",261,9687653,68782,2.6942,3.7946
-Georgia,"Transportation, Communications, Utilities",549,9687653,68782,5.667,7.9817
-Georgia,Retail Trade,101,9687653,68782,1.0426,1.4684
-Georgia,"Finance, Insurance, Real Estate",167,9687653,68782,1.7238,2.428
-Georgia,Services,361,9687653,68782,3.7264,5.2485
-Georgia,Wholesale,12,9687653,68782,0.1239,0.1745
-Georgia,"Agriculture, Forestry, Fishing",0,9687653,68782,0,0
-Georgia,Construction,0,9687653,68782,0,0
-Indiana,"Oil & Gas Extraction, Mining",28,6483802,20266,0.4318,1.3816
-Indiana,"Manufacturing, Durable Goods",1107,6483802,20266,17.0733,54.6235
-Indiana,"Manufacturing, Nondurable Goods",94,6483802,20266,1.4498,4.6383
-Indiana,"Transportation, Communications, Utilities",236,6483802,20266,3.6398,11.6451
-Indiana,Retail Trade,95,6483802,20266,1.4652,4.6877
-Indiana,"Finance, Insurance, Real Estate",79,6483802,20266,1.2184,3.8982
-Indiana,Services,134,6483802,20266,2.0667,6.6121
-Indiana,Wholesale,3,6483802,20266,0.0463,0.148
-Indiana,"Agriculture, Forestry, Fishing",0,6483802,20266,0,0
-Indiana,Construction,0,6483802,20266,0,0
-Illinois,"Oil & Gas Extraction, Mining",12,12830632,36586,0.0935,0.328
-Illinois,"Manufacturing, Durable Goods",689,12830632,36586,5.37,18.8323
-Illinois,"Manufacturing, Nondurable Goods",260,12830632,36586,2.0264,7.1065
-Illinois,"Transportation, Communications, Utilities",575,12830632,36586,4.4815,15.7164
-Illinois,Retail Trade,135,12830632,36586,1.0522,3.6899
-Illinois,"Finance, Insurance, Real Estate",269,12830632,36586,2.0965,7.3525
-Illinois,Services,152,12830632,36586,1.1847,4.1546
-Illinois,Wholesale,9,12830632,36586,0.0701,0.246
-Illinois,"Agriculture, Forestry, Fishing",0,12830632,36586,0,0
-Illinois,Construction,0,12830632,36586,0,0
-Louisiana,"Oil & Gas Extraction, Mining",65,4533372,9513,1.4338,6.8328
-Louisiana,"Manufacturing, Durable Goods",186,4533372,9513,4.1029,19.5522
-Louisiana,"Manufacturing, Nondurable Goods",62,4533372,9513,1.3676,6.5174
-Louisiana,"Transportation, Communications, Utilities",135,4533372,9513,2.9779,14.1911
-Louisiana,Retail Trade,26,4533372,9513,0.5735,2.7331
-Louisiana,"Finance, Insurance, Real Estate",54,4533372,9513,1.1912,5.6764
-Louisiana,Services,45,4533372,9513,0.9926,4.7304
-Louisiana,Wholesale,3,4533372,9513,0.0662,0.3154
-Louisiana,"Agriculture, Forestry, Fishing",0,4533372,9513,0,0
-Louisiana,Construction,0,4533372,9513,0,0
-Maryland,"Oil & Gas Extraction, Mining",1,5773552,13274,0.0173,0.0753
-Maryland,"Manufacturing, Durable Goods",231,5773552,13274,4.001,17.4024
-Maryland,"Manufacturing, Nondurable Goods",39,5773552,13274,0.6755,2.9381
-Maryland,"Transportation, Communications, Utilities",370,5773552,13274,6.4085,27.874
-Maryland,Retail Trade,46,5773552,13274,0.7967,3.4654
-Maryland,"Finance, Insurance, Real Estate",98,5773552,13274,1.6974,7.3829
-Maryland,Services,67,5773552,13274,1.1605,5.0475
-Maryland,Construction,1,5773552,13274,0.0173,0.0753
-Maryland,Wholesale,4,5773552,13274,0.0693,0.3013
-Maryland,"Agriculture, Forestry, Fishing",0,5773552,13274,0,0
-Texas,"Oil & Gas Extraction, Mining",222,25145561,86419,0.8829,2.5689
-Texas,"Manufacturing, Durable Goods",764,25145561,86419,3.0383,8.8406
-Texas,"Manufacturing, Nondurable Goods",580,25145561,86419,2.3066,6.7115
-Texas,"Transportation, Communications, Utilities",1130,25145561,86419,4.4938,13.0758
-Texas,Retail Trade,322,25145561,86419,1.2805,3.726
-Texas,"Finance, Insurance, Real Estate",628,25145561,86419,2.4975,7.2669
-Texas,Services,1013,25145561,86419,4.0285,11.722
-Texas,Construction,2,25145561,86419,0.008,0.0231
-Texas,Wholesale,16,25145561,86419,0.0636,0.1851
-Texas,"Agriculture, Forestry, Fishing",0,25145561,86419,0,0
-Florida,"Oil & Gas Extraction, Mining",2,18801310,46533,0.0106,0.043
-Florida,"Manufacturing, Durable Goods",527,18801310,46533,2.803,11.3253
-Florida,"Manufacturing, Nondurable Goods",186,18801310,46533,0.9893,3.9972
-Florida,"Transportation, Communications, Utilities",706,18801310,46533,3.7551,15.172
-Florida,Retail Trade,214,18801310,46533,1.1382,4.5989
-Florida,"Finance, Insurance, Real Estate",400,18801310,46533,2.1275,8.5961
-Florida,Services,654,18801310,46533,3.4785,14.0545
-Florida,Wholesale,9,18801310,46533,0.0479,0.1934
-Florida,"Agriculture, Forestry, Fishing",0,18801310,46533,0,0
-Florida,Construction,0,18801310,46533,0,0
-Oklahoma,"Oil & Gas Extraction, Mining",46,3751351,8554,1.2262,5.3776
-Oklahoma,"Manufacturing, Durable Goods",149,3751351,8554,3.9719,17.4188
-Oklahoma,"Manufacturing, Nondurable Goods",58,3751351,8554,1.5461,6.7805
-Oklahoma,"Transportation, Communications, Utilities",160,3751351,8554,4.2651,18.7047
-Oklahoma,Retail Trade,19,3751351,8554,0.5065,2.2212
-Oklahoma,"Finance, Insurance, Real Estate",30,3751351,8554,0.7997,3.5071
-Oklahoma,Services,33,3751351,8554,0.8797,3.8578
-Oklahoma,Wholesale,2,3751351,8554,0.0533,0.2338
-Oklahoma,"Agriculture, Forestry, Fishing",0,3751351,8554,0,0
-Oklahoma,Construction,0,3751351,8554,0,0
-Iowa,"Oil & Gas Extraction, Mining",3,3046355,7809,0.0985,0.3842
-Iowa,"Manufacturing, Durable Goods",86,3046355,7809,2.823,11.0129
-Iowa,"Manufacturing, Nondurable Goods",123,3046355,7809,4.0376,15.7511
-Iowa,"Transportation, Communications, Utilities",28,3046355,7809,0.9191,3.5856
-Iowa,Retail Trade,21,3046355,7809,0.6893,2.6892
-Iowa,"Finance, Insurance, Real Estate",30,3046355,7809,0.9848,3.8417
-Iowa,Services,24,3046355,7809,0.7878,3.0734
-Iowa,Wholesale,2,3046355,7809,0.0657,0.2561
-Iowa,"Agriculture, Forestry, Fishing",0,3046355,7809,0,0
-Iowa,Construction,0,3046355,7809,0,0
-California,"Oil & Gas Extraction, Mining",15,37253956,110781,0.0403,0.1354
-California,"Manufacturing, Durable Goods",470,37253956,110781,1.2616,4.2426
-California,"Manufacturing, Nondurable Goods",158,37253956,110781,0.4241,1.4262
-California,"Transportation, Communications, Utilities",442,37253956,110781,1.1865,3.9899
-California,Retail Trade,146,37253956,110781,0.3919,1.3179
-California,"Finance, Insurance, Real Estate",237,37253956,110781,0.6362,2.1394
-California,Services,993,37253956,110781,2.6655,8.9636
-California,Construction,6,37253956,110781,0.0161,0.0542
-California,Wholesale,11,37253956,110781,0.0295,0.0993
-California,"Agriculture, Forestry, Fishing",0,37253956,110781,0,0
-Wisconsin,"Oil & Gas Extraction, Mining",8,5686986,11819,0.1407,0.6769
-Wisconsin,"Manufacturing, Durable Goods",179,5686986,11819,3.1475,15.1451
-Wisconsin,"Manufacturing, Nondurable Goods",104,5686986,11819,1.8287,8.7994
-Wisconsin,"Transportation, Communications, Utilities",92,5686986,11819,1.6177,7.7841
-Wisconsin,Retail Trade,39,5686986,11819,0.6858,3.2998
-Wisconsin,"Finance, Insurance, Real Estate",85,5686986,11819,1.4946,7.1918
-Wisconsin,Services,41,5686986,11819,0.7209,3.469
-Wisconsin,Wholesale,2,5686986,11819,0.0352,0.1692
-Wisconsin,"Agriculture, Forestry, Fishing",0,5686986,11819,0,0
-Wisconsin,Construction,0,5686986,11819,0,0
-Michigan,"Oil & Gas Extraction, Mining",14,9883640,60017,0.1416,0.2333
-Michigan,"Manufacturing, Durable Goods",3257,9883640,60017,32.9534,54.268
-Michigan,"Manufacturing, Nondurable Goods",205,9883640,60017,2.0741,3.4157
-Michigan,"Transportation, Communications, Utilities",300,9883640,60017,3.0353,4.9986
-Michigan,Retail Trade,67,9883640,60017,0.6779,1.1164
-Michigan,"Finance, Insurance, Real Estate",95,9883640,60017,0.9612,1.5829
-Michigan,Services,811,9883640,60017,8.2055,13.5128
-Michigan,Wholesale,2,9883640,60017,0.0202,0.0333
-Michigan,"Agriculture, Forestry, Fishing",0,9883640,60017,0,0
-Michigan,Construction,0,9883640,60017,0,0
-Mississippi,"Oil & Gas Extraction, Mining",9,2967297,17188,0.3033,0.5236
-Mississippi,"Manufacturing, Durable Goods",167,2967297,17188,5.628,9.7161
-Mississippi,"Manufacturing, Nondurable Goods",60,2967297,17188,2.022,3.4908
-Mississippi,"Transportation, Communications, Utilities",85,2967297,17188,2.8646,4.9453
-Mississippi,Retail Trade,12,2967297,17188,0.4044,0.6982
-Mississippi,"Finance, Insurance, Real Estate",10,2967297,17188,0.337,0.5818
-Mississippi,Services,37,2967297,17188,1.2469,2.1527
-Mississippi,Wholesale,1,2967297,17188,0.0337,0.0582
-Mississippi,"Agriculture, Forestry, Fishing",0,2967297,17188,0,0
-Mississippi,Construction,0,2967297,17188,0,0
-Maine,"Manufacturing, Durable Goods",35,1328361,2387,2.6348,14.6628
-Maine,"Manufacturing, Nondurable Goods",6,1328361,2387,0.4517,2.5136
-Maine,"Transportation, Communications, Utilities",9,1328361,2387,0.6775,3.7704
-Maine,Retail Trade,4,1328361,2387,0.3011,1.6757
-Maine,"Finance, Insurance, Real Estate",14,1328361,2387,1.0539,5.8651
-Maine,Services,2,1328361,2387,0.1506,0.8379
-Maine,"Oil & Gas Extraction, Mining",0,1328361,2387,0,0
-Maine,"Agriculture, Forestry, Fishing",0,1328361,2387,0,0
-Maine,Construction,0,1328361,2387,0,0
-Maine,Wholesale,0,1328361,2387,0,0
-Nevada,"Oil & Gas Extraction, Mining",4,2700551,7302,0.1481,0.5478
-Nevada,"Manufacturing, Durable Goods",37,2700551,7302,1.3701,5.0671
-Nevada,"Manufacturing, Nondurable Goods",9,2700551,7302,0.3333,1.2325
-Nevada,"Transportation, Communications, Utilities",49,2700551,7302,1.8144,6.7105
-Nevada,Retail Trade,15,2700551,7302,0.5554,2.0542
-Nevada,"Finance, Insurance, Real Estate",39,2700551,7302,1.4441,5.341
-Nevada,Services,142,2700551,7302,5.2582,19.4467
-Nevada,Construction,2,2700551,7302,0.0741,0.2739
-Nevada,Wholesale,2,2700551,7302,0.0741,0.2739
-Nevada,"Agriculture, Forestry, Fishing",0,2700551,7302,0,0
-Minnesota,"Oil & Gas Extraction, Mining",13,5303925,10881,0.2451,1.1947
-Minnesota,"Manufacturing, Durable Goods",86,5303925,10881,1.6214,7.9037
-Minnesota,"Manufacturing, Nondurable Goods",54,5303925,10881,1.0181,4.9628
-Minnesota,"Transportation, Communications, Utilities",62,5303925,10881,1.1689,5.698
-Minnesota,Retail Trade,96,5303925,10881,1.81,8.8227
-Minnesota,"Finance, Insurance, Real Estate",57,5303925,10881,1.0747,5.2385
-Minnesota,Services,67,5303925,10881,1.2632,6.1575
-Minnesota,Wholesale,6,5303925,10881,0.1131,0.5514
-Minnesota,"Agriculture, Forestry, Fishing",0,5303925,10881,0,0
-Minnesota,Construction,0,5303925,10881,0,0
-Tennessee,"Oil & Gas Extraction, Mining",3,6346105,39193,0.0473,0.0765
-Tennessee,"Manufacturing, Durable Goods",376,6346105,39193,5.9249,9.5935
-Tennessee,"Manufacturing, Nondurable Goods",209,6346105,39193,3.2934,5.3326
-Tennessee,"Transportation, Communications, Utilities",472,6346105,39193,7.4376,12.043
-Tennessee,Retail Trade,71,6346105,39193,1.1188,1.8115
-Tennessee,"Finance, Insurance, Real Estate",68,6346105,39193,1.0715,1.735
-Tennessee,Services,194,6346105,39193,3.057,4.9499
-Tennessee,Wholesale,12,6346105,39193,0.1891,0.30620000000000003
-Tennessee,"Agriculture, Forestry, Fishing",0,6346105,39193,0,0
-Tennessee,Construction,0,6346105,39193,0,0
-Kentucky,"Oil & Gas Extraction, Mining",19,4339367,12082,0.4379,1.5726
-Kentucky,"Manufacturing, Durable Goods",317,4339367,12082,7.3052,26.2374
-Kentucky,"Manufacturing, Nondurable Goods",83,4339367,12082,1.9127,6.8697
-Kentucky,"Transportation, Communications, Utilities",87,4339367,12082,2.0049,7.2008
-Kentucky,Retail Trade,50,4339367,12082,1.1522,4.1384
-Kentucky,"Finance, Insurance, Real Estate",43,4339367,12082,0.9909,3.559
-Kentucky,Services,103,4339367,12082,2.3736,8.5251
-Kentucky,Wholesale,2,4339367,12082,0.0461,0.1655
-Kentucky,"Agriculture, Forestry, Fishing",0,4339367,12082,0,0
-Kentucky,Construction,0,4339367,12082,0,0
-Arizona,"Oil & Gas Extraction, Mining",70,6392017,24762,1.0951,2.8269
-Arizona,"Manufacturing, Durable Goods",225,6392017,24762,3.52,9.0865
-Arizona,"Manufacturing, Nondurable Goods",33,6392017,24762,0.5163,1.3327
-Arizona,"Transportation, Communications, Utilities",137,6392017,24762,2.1433,5.5327
-Arizona,Retail Trade,85,6392017,24762,1.3298,3.4327
-Arizona,"Finance, Insurance, Real Estate",247,6392017,24762,3.8642,9.975
-Arizona,Services,566,6392017,24762,8.8548,22.8576
-Arizona,Construction,2,6392017,24762,0.0313,0.0808
-Arizona,Wholesale,5,6392017,24762,0.0782,0.2019
-Arizona,"Agriculture, Forestry, Fishing",0,6392017,24762,0,0
-New Mexico,"Oil & Gas Extraction, Mining",12,2059179,2122,0.5828,5.655
-New Mexico,"Manufacturing, Durable Goods",20,2059179,2122,0.9713,9.4251
-New Mexico,"Manufacturing, Nondurable Goods",10,2059179,2122,0.4856,4.7125
-New Mexico,"Transportation, Communications, Utilities",18,2059179,2122,0.8741,8.4826
-New Mexico,Retail Trade,4,2059179,2122,0.1943,1.885
-New Mexico,"Finance, Insurance, Real Estate",6,2059179,2122,0.2914,2.8275
-New Mexico,Services,19,2059179,2122,0.9227,8.9538
-New Mexico,"Agriculture, Forestry, Fishing",0,2059179,2122,0,0
-New Mexico,Construction,0,2059179,2122,0,0
-New Mexico,Wholesale,0,2059179,2122,0,0
-Virginia,"Oil & Gas Extraction, Mining",3,8001024,16696,0.0375,0.1797
-Virginia,"Manufacturing, Durable Goods",240,8001024,16696,2.9996,14.3747
-Virginia,"Manufacturing, Nondurable Goods",120,8001024,16696,1.4998,7.1874
-Virginia,"Transportation, Communications, Utilities",250,8001024,16696,3.1246,14.9736
-Virginia,Retail Trade,85,8001024,16696,1.0624,5.091
-Virginia,"Finance, Insurance, Real Estate",91,8001024,16696,1.1374,5.4504
-Virginia,Services,109,8001024,16696,1.3623,6.5285
-Virginia,Wholesale,4,8001024,16696,0.05,0.2396
-Virginia,"Agriculture, Forestry, Fishing",0,8001024,16696,0,0
-Virginia,Construction,0,8001024,16696,0,0
-Wyoming,"Oil & Gas Extraction, Mining",3,563626,756,0.5323,3.9683
-Wyoming,"Manufacturing, Durable Goods",1,563626,756,0.1774,1.3228
-Wyoming,"Transportation, Communications, Utilities",2,563626,756,0.3548,2.6455
-Wyoming,Retail Trade,3,563626,756,0.5323,3.9683
-Wyoming,"Finance, Insurance, Real Estate",1,563626,756,0.1774,1.3228
-Wyoming,Services,15,563626,756,2.6613,19.8413
-Wyoming,"Manufacturing, Nondurable Goods",0,563626,756,0,0
-Wyoming,"Agriculture, Forestry, Fishing",0,563626,756,0,0
-Wyoming,Construction,0,563626,756,0,0
-Wyoming,Wholesale,0,563626,756,0,0
-Missouri,"Oil & Gas Extraction, Mining",11,5988927,30140,0.1837,0.365
-Missouri,"Manufacturing, Durable Goods",626,5988927,30140,10.4526,20.7697
-Missouri,"Manufacturing, Nondurable Goods",160,5988927,30140,2.6716,5.3086
-Missouri,"Transportation, Communications, Utilities",315,5988927,30140,5.2597,10.4512
-Missouri,Retail Trade,61,5988927,30140,1.0185,2.0239
-Missouri,"Finance, Insurance, Real Estate",118,5988927,30140,1.9703,3.9151
-Missouri,Services,110,5988927,30140,1.8367,3.6496
-Missouri,Construction,2,5988927,30140,0.0334,0.0664
-Missouri,"Agriculture, Forestry, Fishing",0,5988927,30140,0,0
-Missouri,Wholesale,0,5988927,30140,0,0
-Washington,"Oil & Gas Extraction, Mining",2,6724540,18780,0.0297,0.1065
-Washington,"Manufacturing, Durable Goods",203,6724540,18780,3.0188,10.8094
-Washington,"Manufacturing, Nondurable Goods",21,6724540,18780,0.3123,1.1182
-Washington,"Transportation, Communications, Utilities",96,6724540,18780,1.4276,5.1118
-Washington,Retail Trade,49,6724540,18780,0.7287,2.6092
-Washington,"Finance, Insurance, Real Estate",36,6724540,18780,0.5354,1.9169
-Washington,Services,111,6724540,18780,1.6507,5.9105
-Washington,Construction,2,6724540,18780,0.0297,0.1065
-Washington,Wholesale,2,6724540,18780,0.0297,0.1065
-Washington,"Agriculture, Forestry, Fishing",0,6724540,18780,0,0
-Idaho,"Manufacturing, Durable Goods",15,1567582,2345,0.9569,6.3966
-Idaho,"Manufacturing, Nondurable Goods",4,1567582,2345,0.2552,1.7058
-Idaho,"Transportation, Communications, Utilities",19,1567582,2345,1.2121,8.1023
-Idaho,Retail Trade,10,1567582,2345,0.6379,4.2644
-Idaho,"Finance, Insurance, Real Estate",20,1567582,2345,1.2759,8.5288
-Idaho,Services,10,1567582,2345,0.6379,4.2644
-Idaho,Wholesale,1,1567582,2345,0.0638,0.4264
-Idaho,"Oil & Gas Extraction, Mining",0,1567582,2345,0,0
-Idaho,"Agriculture, Forestry, Fishing",0,1567582,2345,0,0
-Idaho,Construction,0,1567582,2345,0,0
-West Virginia,"Oil & Gas Extraction, Mining",8,1852994,3558,0.4317,2.2485
-West Virginia,"Manufacturing, Durable Goods",57,1852994,3558,3.0761,16.0202
-West Virginia,"Manufacturing, Nondurable Goods",39,1852994,3558,2.1047,10.9612
-West Virginia,"Transportation, Communications, Utilities",105,1852994,3558,5.6665,29.511
-West Virginia,Retail Trade,13,1852994,3558,0.7016,3.6537
-West Virginia,"Finance, Insurance, Real Estate",14,1852994,3558,0.7555,3.9348
-West Virginia,Services,31,1852994,3558,1.673,8.7128
-West Virginia,Wholesale,3,1852994,3558,0.1619,0.8432
-West Virginia,"Agriculture, Forestry, Fishing",0,1852994,3558,0,0
-West Virginia,Construction,0,1852994,3558,0,0
-Massachusetts,"Oil & Gas Extraction, Mining",3,6547629,27050,0.0458,0.1109
-Massachusetts,"Manufacturing, Durable Goods",173,6547629,27050,2.6422,6.3956
-Massachusetts,"Manufacturing, Nondurable Goods",37,6547629,27050,0.5651,1.3678
-Massachusetts,"Transportation, Communications, Utilities",208,6547629,27050,3.1767,7.6895
-Massachusetts,Retail Trade,33,6547629,27050,0.504,1.22
-Massachusetts,"Finance, Insurance, Real Estate",110,6547629,27050,1.68,4.0665
-Massachusetts,Services,298,6547629,27050,4.5513,11.0166
-Massachusetts,"Agriculture, Forestry, Fishing",1,6547629,27050,0.0153,0.037
-Massachusetts,Wholesale,4,6547629,27050,0.0611,0.1479
-Massachusetts,Construction,0,6547629,27050,0,0
-North Carolina,"Oil & Gas Extraction, Mining",2,9535483,22713,0.021,0.0881
-North Carolina,"Manufacturing, Durable Goods",201,9535483,22713,2.1079,8.8496
-North Carolina,"Manufacturing, Nondurable Goods",207,9535483,22713,2.1708,9.1137
-North Carolina,"Transportation, Communications, Utilities",233,9535483,22713,2.4435,10.2584
-North Carolina,Retail Trade,75,9535483,22713,0.7865,3.3021
-North Carolina,"Finance, Insurance, Real Estate",172,9535483,22713,1.8038,7.5728
-North Carolina,Services,166,9535483,22713,1.7409,7.3086
-North Carolina,Wholesale,6,9535483,22713,0.0629,0.2642
-North Carolina,"Agriculture, Forestry, Fishing",0,9535483,22713,0,0
-North Carolina,Construction,0,9535483,22713,0,0
-Oregon,"Manufacturing, Durable Goods",69,3831074,15289,1.8011,4.513
-Oregon,"Manufacturing, Nondurable Goods",25,3831074,15289,0.6526,1.6352
-Oregon,"Transportation, Communications, Utilities",30,3831074,15289,0.7831,1.9622
-Oregon,Retail Trade,46,3831074,15289,1.2007,3.0087
-Oregon,"Finance, Insurance, Real Estate",24,3831074,15289,0.6265,1.5698
-Oregon,Services,270,3831074,15289,7.0476,17.6598
-Oregon,"Oil & Gas Extraction, Mining",0,3831074,15289,0,0
-Oregon,"Agriculture, Forestry, Fishing",0,3831074,15289,0,0
-Oregon,Construction,0,3831074,15289,0,0
-Oregon,Wholesale,0,3831074,15289,0,0
-Rhode Island,"Oil & Gas Extraction, Mining",1,1052567,4223,0.095,0.2368
-Rhode Island,"Manufacturing, Durable Goods",35,1052567,4223,3.3252,8.2879
-Rhode Island,"Manufacturing, Nondurable Goods",3,1052567,4223,0.285,0.7104
-Rhode Island,"Transportation, Communications, Utilities",18,1052567,4223,1.7101,4.2624
-Rhode Island,Retail Trade,17,1052567,4223,1.6151,4.0256
-Rhode Island,"Finance, Insurance, Real Estate",14,1052567,4223,1.3301,3.3152
-Rhode Island,Services,15,1052567,4223,1.4251,3.552
-Rhode Island,"Agriculture, Forestry, Fishing",0,1052567,4223,0,0
-Rhode Island,Construction,0,1052567,4223,0,0
-Rhode Island,Wholesale,0,1052567,4223,0,0
-Colorado,"Oil & Gas Extraction, Mining",15,5029196,12893,0.2983,1.1634
-Colorado,"Manufacturing, Durable Goods",102,5029196,12893,2.0282,7.9113
-Colorado,"Manufacturing, Nondurable Goods",42,5029196,12893,0.8351,3.2576
-Colorado,"Transportation, Communications, Utilities",99,5029196,12893,1.9685,7.6786
-Colorado,Retail Trade,48,5029196,12893,0.9544,3.723
-Colorado,"Finance, Insurance, Real Estate",41,5029196,12893,0.8152,3.18
-Colorado,Services,95,5029196,12893,1.889,7.3683
-Colorado,Wholesale,3,5029196,12893,0.0597,0.2327
-Colorado,"Agriculture, Forestry, Fishing",0,5029196,12893,0,0
-Colorado,Construction,0,5029196,12893,0,0
-Connecticut,"Oil & Gas Extraction, Mining",2,3574097,14366,0.056,0.1392
-Connecticut,"Manufacturing, Durable Goods",189,3574097,14366,5.288,13.1561
-Connecticut,"Manufacturing, Nondurable Goods",28,3574097,14366,0.7834,1.949
-Connecticut,"Transportation, Communications, Utilities",138,3574097,14366,3.8611,9.606
-Connecticut,Retail Trade,48,3574097,14366,1.343,3.3412
-Connecticut,"Finance, Insurance, Real Estate",54,3574097,14366,1.5109,3.7589
-Connecticut,Services,72,3574097,14366,2.0145,5.0118
-Connecticut,"Agriculture, Forestry, Fishing",4,3574097,14366,0.1119,0.2784
-Connecticut,Construction,13,3574097,14366,0.3637,0.9049
-Connecticut,Wholesale,13,3574097,14366,0.3637,0.9049
-New Hampshire,"Manufacturing, Durable Goods",35,1316470,3257,2.6586,10.7461
-New Hampshire,"Manufacturing, Nondurable Goods",3,1316470,3257,0.2279,0.9211
-New Hampshire,"Transportation, Communications, Utilities",27,1316470,3257,2.0509,8.2898
-New Hampshire,Retail Trade,4,1316470,3257,0.3038,1.2281
-New Hampshire,"Finance, Insurance, Real Estate",19,1316470,3257,1.4433,5.8336
-New Hampshire,Services,24,1316470,3257,1.8231,7.3687
-New Hampshire,"Oil & Gas Extraction, Mining",0,1316470,3257,0,0
-New Hampshire,"Agriculture, Forestry, Fishing",0,1316470,3257,0,0
-New Hampshire,Construction,0,1316470,3257,0,0
-New Hampshire,Wholesale,0,1316470,3257,0,0
-New Jersey,"Oil & Gas Extraction, Mining",11,8791894,25601,0.1251,0.4297
-New Jersey,"Manufacturing, Durable Goods",194,8791894,25601,2.2066,7.5778
-New Jersey,"Manufacturing, Nondurable Goods",135,8791894,25601,1.5355,5.2732
-New Jersey,"Transportation, Communications, Utilities",527,8791894,25601,5.9942,20.5851
-New Jersey,Retail Trade,86,8791894,25601,0.9782,3.3592
-New Jersey,"Finance, Insurance, Real Estate",252,8791894,25601,2.8663,9.8434
-New Jersey,Services,53,8791894,25601,0.6028,2.0702
-New Jersey,Wholesale,9,8791894,25601,0.1024,0.3515
-New Jersey,"Agriculture, Forestry, Fishing",0,8791894,25601,0,0
-New Jersey,Construction,0,8791894,25601,0,0
-Alabama,"Oil & Gas Extraction, Mining",2,4779736,19688,0.0418,0.1016
-Alabama,"Manufacturing, Durable Goods",290,4779736,19688,6.0673,14.7298
-Alabama,"Manufacturing, Nondurable Goods",86,4779736,19688,1.7993,4.3681
-Alabama,"Transportation, Communications, Utilities",211,4779736,19688,4.4145,10.7172
-Alabama,Retail Trade,31,4779736,19688,0.6486,1.5746
-Alabama,"Finance, Insurance, Real Estate",38,4779736,19688,0.795,1.9301
-Alabama,Services,86,4779736,19688,1.7993,4.3681
-Alabama,Construction,1,4779736,19688,0.0209,0.0508
-Alabama,Wholesale,4,4779736,19688,0.0837,0.2032
-Alabama,"Agriculture, Forestry, Fishing",0,4779736,19688,0,0
-Alaska,"Oil & Gas Extraction, Mining",2,710231,1193,0.2816,1.6764
-Alaska,"Manufacturing, Durable Goods",2,710231,1193,0.2816,1.6764
-Alaska,"Manufacturing, Nondurable Goods",3,710231,1193,0.4224,2.5147
-Alaska,"Transportation, Communications, Utilities",5,710231,1193,0.704,4.1911
-Alaska,Retail Trade,13,710231,1193,1.8304,10.8969
-Alaska,Services,34,710231,1193,4.7872,28.4996
-Alaska,"Finance, Insurance, Real Estate",0,710231,1193,0,0
-Alaska,"Agriculture, Forestry, Fishing",0,710231,1193,0,0
-Alaska,Construction,0,710231,1193,0,0
-Alaska,Wholesale,0,710231,1193,0,0
-South Carolina,"Manufacturing, Durable Goods",149,4625364,8448,3.2214,17.6373
-South Carolina,"Manufacturing, Nondurable Goods",81,4625364,8448,1.7512,9.5881
-South Carolina,"Transportation, Communications, Utilities",141,4625364,8448,3.0484,16.6903
-South Carolina,Retail Trade,39,4625364,8448,0.8432,4.6165
-South Carolina,"Finance, Insurance, Real Estate",39,4625364,8448,0.8432,4.6165
-South Carolina,Services,35,4625364,8448,0.7567,4.143
-South Carolina,Wholesale,5,4625364,8448,0.1081,0.5919
-South Carolina,"Oil & Gas Extraction, Mining",0,4625364,8448,0,0
-South Carolina,"Agriculture, Forestry, Fishing",0,4625364,8448,0,0
-South Carolina,Construction,0,4625364,8448,0,0
-Kansas,"Oil & Gas Extraction, Mining",2,2853118,7854,0.0701,0.2546
-Kansas,"Manufacturing, Durable Goods",114,2853118,7854,3.9956,14.5149
-Kansas,"Manufacturing, Nondurable Goods",53,2853118,7854,1.8576,6.7482
-Kansas,"Transportation, Communications, Utilities",82,2853118,7854,2.874,10.4405
-Kansas,Retail Trade,40,2853118,7854,1.402,5.0929
-Kansas,"Finance, Insurance, Real Estate",33,2853118,7854,1.1566,4.2017
-Kansas,Services,41,2853118,7854,1.437,5.2203
-Kansas,Wholesale,3,2853118,7854,0.1051,0.382
-Kansas,"Agriculture, Forestry, Fishing",0,2853118,7854,0,0
-Kansas,Construction,0,2853118,7854,0,0
-Delaware,"Oil & Gas Extraction, Mining",5,897934,8224,0.5568,0.608
-Delaware,"Manufacturing, Durable Goods",104,897934,8224,11.5821,12.6459
-Delaware,"Manufacturing, Nondurable Goods",15,897934,8224,1.6705,1.8239
-Delaware,"Transportation, Communications, Utilities",39,897934,8224,4.3433,4.7422
-Delaware,Retail Trade,12,897934,8224,1.3364,1.4591
-Delaware,"Finance, Insurance, Real Estate",53,897934,8224,5.9024,6.4446
-Delaware,Services,8,897934,8224,0.8909,0.9728
-Delaware,"Agriculture, Forestry, Fishing",0,897934,8224,0,0
-Delaware,Construction,0,897934,8224,0,0
-Delaware,Wholesale,0,897934,8224,0,0
-Utah,"Oil & Gas Extraction, Mining",5,2763885,11502,0.1809,0.4347
-Utah,"Manufacturing, Durable Goods",20,2763885,11502,0.7236,1.7388
-Utah,"Manufacturing, Nondurable Goods",11,2763885,11502,0.398,0.9564
-Utah,"Transportation, Communications, Utilities",30,2763885,11502,1.0854,2.6082
-Utah,Retail Trade,19,2763885,11502,0.6874,1.6519
-Utah,"Finance, Insurance, Real Estate",22,2763885,11502,0.796,1.9127
-Utah,Services,22,2763885,11502,0.796,1.9127
-Utah,Wholesale,1,2763885,11502,0.0362,0.0869
-Utah,"Agriculture, Forestry, Fishing",0,2763885,11502,0,0
-Utah,Construction,0,2763885,11502,0,0
-Nebraska,"Oil & Gas Extraction, Mining",1,1826341,4084,0.0548,0.2449
-Nebraska,"Manufacturing, Durable Goods",23,1826341,4084,1.2593,5.6317
-Nebraska,"Manufacturing, Nondurable Goods",68,1826341,4084,3.7233,16.6503
-Nebraska,"Transportation, Communications, Utilities",19,1826341,4084,1.0403,4.6523
-Nebraska,Retail Trade,15,1826341,4084,0.8213,3.6729
-Nebraska,"Finance, Insurance, Real Estate",14,1826341,4084,0.7666,3.428
-Nebraska,Services,25,1826341,4084,1.3689,6.1214
-Nebraska,"Agriculture, Forestry, Fishing",0,1826341,4084,0,0
-Nebraska,Construction,0,1826341,4084,0,0
-Nebraska,Wholesale,0,1826341,4084,0,0
-Montana,"Oil & Gas Extraction, Mining",3,989415,1110,0.3032,2.7027
-Montana,"Manufacturing, Durable Goods",6,989415,1110,0.6064,5.4054
-Montana,"Manufacturing, Nondurable Goods",5,989415,1110,0.5053,4.5045
-Montana,"Transportation, Communications, Utilities",5,989415,1110,0.5053,4.5045
-Montana,Retail Trade,5,989415,1110,0.5053,4.5045
-Montana,"Finance, Insurance, Real Estate",1,989415,1110,0.1011,0.9009
-Montana,Services,2,989415,1110,0.2021,1.8018
-Montana,"Agriculture, Forestry, Fishing",0,989415,1110,0,0
-Montana,Construction,0,989415,1110,0,0
-Montana,Wholesale,0,989415,1110,0,0
-North Dakota,"Oil & Gas Extraction, Mining",1,672591,829,0.1487,1.2063
-North Dakota,"Manufacturing, Durable Goods",27,672591,829,4.0143,32.5694
-North Dakota,"Manufacturing, Nondurable Goods",5,672591,829,0.7434,6.0314
-North Dakota,"Transportation, Communications, Utilities",1,672591,829,0.1487,1.2063
-North Dakota,"Finance, Insurance, Real Estate",6,672591,829,0.8921,7.2376
-North Dakota,Services,1,672591,829,0.1487,1.2063
-North Dakota,Retail Trade,0,672591,829,0,0
-North Dakota,"Agriculture, Forestry, Fishing",0,672591,829,0,0
-North Dakota,Construction,0,672591,829,0,0
-North Dakota,Wholesale,0,672591,829,0,0
-South Dakota,"Manufacturing, Durable Goods",4,814180,1257,0.4913,3.1822
-South Dakota,"Manufacturing, Nondurable Goods",18,814180,1257,2.2108,14.3198
-South Dakota,"Transportation, Communications, Utilities",5,814180,1257,0.6141,3.9777
-South Dakota,Retail Trade,3,814180,1257,0.3685,2.3866
-South Dakota,"Finance, Insurance, Real Estate",25,814180,1257,3.0706,19.8886
-South Dakota,Services,10,814180,1257,1.2282,7.9554
-South Dakota,"Oil & Gas Extraction, Mining",0,814180,1257,0,0
-South Dakota,"Agriculture, Forestry, Fishing",0,814180,1257,0,0
-South Dakota,Construction,0,814180,1257,0,0
-South Dakota,Wholesale,0,814180,1257,0,0
-Hawaii,"Oil & Gas Extraction, Mining",1,1360301,230,0.0735,4.3478
-Hawaii,"Manufacturing, Durable Goods",3,1360301,230,0.2205,13.0435
-Hawaii,"Manufacturing, Nondurable Goods",1,1360301,230,0.0735,4.3478
-Hawaii,"Transportation, Communications, Utilities",4,1360301,230,0.2941,17.3913
-Hawaii,"Finance, Insurance, Real Estate",1,1360301,230,0.0735,4.3478
-Hawaii,Services,2,1360301,230,0.147,8.6957
-Hawaii,Retail Trade,0,1360301,230,0,0
-Hawaii,"Agriculture, Forestry, Fishing",0,1360301,230,0,0
-Hawaii,Construction,0,1360301,230,0,0
-Hawaii,Wholesale,0,1360301,230,0,0
-Vermont,"Manufacturing, Durable Goods",9,625741,686,1.4383,13.1195
-Vermont,"Manufacturing, Nondurable Goods",4,625741,686,0.6392,5.8309
-Vermont,"Transportation, Communications, Utilities",8,625741,686,1.2785,11.6618
-Vermont,Retail Trade,3,625741,686,0.4794,4.3732
-Vermont,"Finance, Insurance, Real Estate",1,625741,686,0.1598,1.4577
-Vermont,"Oil & Gas Extraction, Mining",0,625741,686,0,0
-Vermont,Services,0,625741,686,0,0
-Vermont,"Agriculture, Forestry, Fishing",0,625741,686,0,0
-Vermont,Construction,0,625741,686,0,0
-Vermont,Wholesale,0,625741,686,0,0
-Puerto Rico,"Manufacturing, Durable Goods",1,3725789,728,0.0268,1.3736
-Puerto Rico,"Manufacturing, Nondurable Goods",7,3725789,728,0.1879,9.6154
-Puerto Rico,"Transportation, Communications, Utilities",2,3725789,728,0.0537,2.7473
-Puerto Rico,"Finance, Insurance, Real Estate",1,3725789,728,0.0268,1.3736
-Puerto Rico,"Oil & Gas Extraction, Mining",0,3725789,728,0,0
-Puerto Rico,Retail Trade,0,3725789,728,0,0
-Puerto Rico,Services,0,3725789,728,0,0
-Puerto Rico,"Agriculture, Forestry, Fishing",0,3725789,728,0,0
-Puerto Rico,Construction,0,3725789,728,0,0
-Puerto Rico,Wholesale,0,3725789,728,0,0
+STATE,INDSTRY,CASES,CS_POP,DS_POP,CS_RATE,DS_RATE
+Alabama,"Oil & Gas Extraction, Mining",2,4779736,5730,0.0418,0.349
+Alabama,"Manufacturing, Durable Goods",275,4779736,5730,5.7535,47.993
+Alabama,"Manufacturing, Nondurable Goods",79,4779736,5730,1.6528,13.7871
+Alabama,"Transportation, Communications, Utilities",196,4779736,5730,4.1006,34.2059
+Alabama,Retail Trade,29,4779736,5730,0.6067,5.0611
+Alabama,"Finance, Insurance, Real Estate",37,4779736,5730,0.7741,6.4572
+Alabama,Services,83,4779736,5730,1.7365,14.4852
+Alabama,Construction,1,4779736,5730,0.0209,0.1745
+Alabama,Wholesale,4,4779736,5730,0.0837,0.6981
+Alabama,"Agriculture, Forestry, Fishing",0,4779736,5730,0,0
+Alaska,"Oil & Gas Extraction, Mining",2,710231,257,0.2816,7.7821
+Alaska,"Manufacturing, Durable Goods",2,710231,257,0.2816,7.7821
+Alaska,"Manufacturing, Nondurable Goods",3,710231,257,0.4224,11.6732
+Alaska,"Transportation, Communications, Utilities",5,710231,257,0.704,19.4553
+Alaska,Retail Trade,13,710231,257,1.8304,50.5837
+Alaska,Services,32,710231,257,4.5056,124.5136
+Alaska,"Finance, Insurance, Real Estate",0,710231,257,0,0
+Alaska,"Agriculture, Forestry, Fishing",0,710231,257,0,0
+Alaska,Construction,0,710231,257,0,0
+Alaska,Wholesale,0,710231,257,0,0
+Arizona,"Oil & Gas Extraction, Mining",67,6392017,7456,1.0482,8.9861
+Arizona,"Manufacturing, Durable Goods",211,6392017,7456,3.301,28.2994
+Arizona,"Manufacturing, Nondurable Goods",31,6392017,7456,0.485,4.1577
+Arizona,"Transportation, Communications, Utilities",131,6392017,7456,2.0494,17.5697
+Arizona,Retail Trade,81,6392017,7456,1.2672,10.8637
+Arizona,"Finance, Insurance, Real Estate",229,6392017,7456,3.5826,30.7135
+Arizona,Services,520,6392017,7456,8.1351,69.7425
+Arizona,Construction,1,6392017,7456,0.0156,0.1341
+Arizona,Wholesale,5,6392017,7456,0.0782,0.6706
+Arizona,"Agriculture, Forestry, Fishing",0,6392017,7456,0,0
+Arkansas,"Oil & Gas Extraction, Mining",4,2915918,2052,0.1372,1.9493
+Arkansas,"Manufacturing, Durable Goods",108,2915918,2052,3.7038,52.6316
+Arkansas,"Manufacturing, Nondurable Goods",173,2915918,2052,5.933,84.308
+Arkansas,"Transportation, Communications, Utilities",73,2915918,2052,2.5035,35.575
+Arkansas,Retail Trade,17,2915918,2052,0.583,8.2846
+Arkansas,"Finance, Insurance, Real Estate",16,2915918,2052,0.5487,7.7973
+Arkansas,Services,29,2915918,2052,0.9945,14.1326
+Arkansas,Wholesale,1,2915918,2052,0.0343,0.4873
+Arkansas,"Agriculture, Forestry, Fishing",0,2915918,2052,0,0
+Arkansas,Construction,0,2915918,2052,0,0
+California,"Oil & Gas Extraction, Mining",15,37253956,40228,0.0403,0.3729
+California,"Manufacturing, Durable Goods",455,37253956,40228,1.2213,11.3105
+California,"Manufacturing, Nondurable Goods",152,37253956,40228,0.408,3.7785
+California,"Transportation, Communications, Utilities",422,37253956,40228,1.1328,10.4902
+California,Retail Trade,138,37253956,40228,0.3704,3.4304
+California,"Finance, Insurance, Real Estate",231,37253956,40228,0.6201,5.7423
+California,Services,951,37253956,40228,2.5527,23.6403
+California,Construction,6,37253956,40228,0.0161,0.1491
+California,Wholesale,10,37253956,40228,0.0268,0.2486
+California,"Agriculture, Forestry, Fishing",0,37253956,40228,0,0
+Colorado,"Oil & Gas Extraction, Mining",15,5029196,3198,0.2983,4.6904
+Colorado,"Manufacturing, Durable Goods",96,5029196,3198,1.9089,30.0188
+Colorado,"Manufacturing, Nondurable Goods",39,5029196,3198,0.7755,12.1951
+Colorado,"Transportation, Communications, Utilities",94,5029196,3198,1.8691,29.3934
+Colorado,Retail Trade,46,5029196,3198,0.9147,14.384
+Colorado,"Finance, Insurance, Real Estate",41,5029196,3198,0.8152,12.8205
+Colorado,Services,91,5029196,3198,1.8094,28.4553
+Colorado,Wholesale,2,5029196,3198,0.0398,0.6254
+Colorado,"Agriculture, Forestry, Fishing",0,5029196,3198,0,0
+Colorado,Construction,0,5029196,3198,0,0
+Connecticut,"Oil & Gas Extraction, Mining",2,3574097,3431,0.056,0.5829
+Connecticut,"Manufacturing, Durable Goods",183,3574097,3431,5.1202,53.3372
+Connecticut,"Manufacturing, Nondurable Goods",28,3574097,3431,0.7834,8.1609
+Connecticut,"Transportation, Communications, Utilities",127,3574097,3431,3.5533,37.0154
+Connecticut,Retail Trade,46,3574097,3431,1.287,13.4072
+Connecticut,"Finance, Insurance, Real Estate",54,3574097,3431,1.5109,15.7389
+Connecticut,Services,70,3574097,3431,1.9585,20.4022
+Connecticut,"Agriculture, Forestry, Fishing",4,3574097,3431,0.1119,1.1658
+Connecticut,Construction,13,3574097,3431,0.3637,3.789
+Connecticut,Wholesale,12,3574097,3431,0.3357,3.4975
+Delaware,"Oil & Gas Extraction, Mining",4,897934,2088,0.4455,1.9157
+Delaware,"Manufacturing, Durable Goods",96,897934,2088,10.6912,45.977
+Delaware,"Manufacturing, Nondurable Goods",14,897934,2088,1.5591,6.705
+Delaware,"Transportation, Communications, Utilities",38,897934,2088,4.2319,18.1992
+Delaware,Retail Trade,11,897934,2088,1.225,5.2682
+Delaware,"Finance, Insurance, Real Estate",49,897934,2088,5.457,23.4674
+Delaware,Services,8,897934,2088,0.8909,3.8314
+Delaware,"Agriculture, Forestry, Fishing",0,897934,2088,0,0
+Delaware,Construction,0,897934,2088,0,0
+Delaware,Wholesale,0,897934,2088,0,0
+Florida,"Oil & Gas Extraction, Mining",2,18801310,14966,0.0106,0.1336
+Florida,"Manufacturing, Durable Goods",493,18801310,14966,2.6222,32.9413
+Florida,"Manufacturing, Nondurable Goods",177,18801310,14966,0.9414,11.8268
+Florida,"Transportation, Communications, Utilities",666,18801310,14966,3.5423,44.5009
+Florida,Retail Trade,201,18801310,14966,1.0691,13.4304
+Florida,"Finance, Insurance, Real Estate",382,18801310,14966,2.0318,25.5245
+Florida,Services,627,18801310,14966,3.3349,41.895
+Florida,Wholesale,9,18801310,14966,0.0479,0.6014
+Florida,"Agriculture, Forestry, Fishing",0,18801310,14966,0,0
+Florida,Construction,0,18801310,14966,0,0
+Georgia,"Oil & Gas Extraction, Mining",4,9687653,22416,0.0413,0.1784
+Georgia,"Manufacturing, Durable Goods",414,9687653,22416,4.2735,18.469
+Georgia,"Manufacturing, Nondurable Goods",252,9687653,22416,2.6012,11.242
+Georgia,"Transportation, Communications, Utilities",515,9687653,22416,5.316,22.9747
+Georgia,Retail Trade,96,9687653,22416,0.991,4.2827
+Georgia,"Finance, Insurance, Real Estate",156,9687653,22416,1.6103,6.9593
+Georgia,Services,339,9687653,22416,3.4993,15.1231
+Georgia,Wholesale,11,9687653,22416,0.1135,0.4907
+Georgia,"Agriculture, Forestry, Fishing",0,9687653,22416,0,0
+Georgia,Construction,0,9687653,22416,0,0
+Hawaii,"Oil & Gas Extraction, Mining",1,1360301,85,0.0735,11.7647
+Hawaii,"Manufacturing, Durable Goods",3,1360301,85,0.2205,35.2941
+Hawaii,"Manufacturing, Nondurable Goods",1,1360301,85,0.0735,11.7647
+Hawaii,"Transportation, Communications, Utilities",4,1360301,85,0.2941,47.0588
+Hawaii,"Finance, Insurance, Real Estate",1,1360301,85,0.0735,11.7647
+Hawaii,Services,2,1360301,85,0.147,23.5294
+Hawaii,Retail Trade,0,1360301,85,0,0
+Hawaii,"Agriculture, Forestry, Fishing",0,1360301,85,0,0
+Hawaii,Construction,0,1360301,85,0,0
+Hawaii,Wholesale,0,1360301,85,0,0
+Idaho,"Manufacturing, Durable Goods",14,1567582,569,0.8931,24.6046
+Idaho,"Manufacturing, Nondurable Goods",4,1567582,569,0.2552,7.0299
+Idaho,"Transportation, Communications, Utilities",18,1567582,569,1.1483,31.6344
+Idaho,Retail Trade,9,1567582,569,0.5741,15.8172
+Idaho,"Finance, Insurance, Real Estate",18,1567582,569,1.1483,31.6344
+Idaho,Services,10,1567582,569,0.6379,17.5747
+Idaho,Wholesale,1,1567582,569,0.0638,1.7575
+Idaho,"Oil & Gas Extraction, Mining",0,1567582,569,0,0
+Idaho,"Agriculture, Forestry, Fishing",0,1567582,569,0,0
+Idaho,Construction,0,1567582,569,0,0
+Illinois,"Oil & Gas Extraction, Mining",12,12830632,10670,0.0935,1.1246
+Illinois,"Manufacturing, Durable Goods",648,12830632,10670,5.0504,60.731
+Illinois,"Manufacturing, Nondurable Goods",245,12830632,10670,1.9095,22.9616
+Illinois,"Transportation, Communications, Utilities",541,12830632,10670,4.2165,50.7029
+Illinois,Retail Trade,124,12830632,10670,0.9664,11.6214
+Illinois,"Finance, Insurance, Real Estate",254,12830632,10670,1.9796,23.8051
+Illinois,Services,143,12830632,10670,1.1145,13.4021
+Illinois,Wholesale,8,12830632,10670,0.0624,0.7498
+Illinois,"Agriculture, Forestry, Fishing",0,12830632,10670,0,0
+Illinois,Construction,0,12830632,10670,0,0
+Indiana,"Oil & Gas Extraction, Mining",27,6483802,7465,0.4164,3.6169
+Indiana,"Manufacturing, Durable Goods",1056,6483802,7465,16.2867,141.4601
+Indiana,"Manufacturing, Nondurable Goods",89,6483802,7465,1.3727,11.9223
+Indiana,"Transportation, Communications, Utilities",226,6483802,7465,3.4856,30.2746
+Indiana,Retail Trade,91,6483802,7465,1.4035,12.1902
+Indiana,"Finance, Insurance, Real Estate",73,6483802,7465,1.1259,9.779
+Indiana,Services,129,6483802,7465,1.9896,17.2806
+Indiana,Wholesale,3,6483802,7465,0.0463,0.4019
+Indiana,"Agriculture, Forestry, Fishing",0,6483802,7465,0,0
+Indiana,Construction,0,6483802,7465,0,0
+Iowa,"Oil & Gas Extraction, Mining",3,3046355,1738,0.0985,1.7261
+Iowa,"Manufacturing, Durable Goods",83,3046355,1738,2.7246,47.756
+Iowa,"Manufacturing, Nondurable Goods",115,3046355,1738,3.775,66.168
+Iowa,"Transportation, Communications, Utilities",26,3046355,1738,0.8535,14.9597
+Iowa,Retail Trade,20,3046355,1738,0.6565,11.5075
+Iowa,"Finance, Insurance, Real Estate",29,3046355,1738,0.952,16.6858
+Iowa,Services,23,3046355,1738,0.755,13.2336
+Iowa,Wholesale,2,3046355,1738,0.0657,1.1507
+Iowa,"Agriculture, Forestry, Fishing",0,3046355,1738,0,0
+Iowa,Construction,0,3046355,1738,0,0
+Kansas,"Oil & Gas Extraction, Mining",2,2853118,2026,0.0701,0.9872
+Kansas,"Manufacturing, Durable Goods",108,2853118,2026,3.7853,53.307
+Kansas,"Manufacturing, Nondurable Goods",49,2853118,2026,1.7174,24.1856
+Kansas,"Transportation, Communications, Utilities",79,2853118,2026,2.7689,38.9931
+Kansas,Retail Trade,40,2853118,2026,1.402,19.7433
+Kansas,"Finance, Insurance, Real Estate",32,2853118,2026,1.1216,15.7947
+Kansas,Services,39,2853118,2026,1.3669,19.2498
+Kansas,Wholesale,2,2853118,2026,0.0701,0.9872
+Kansas,"Agriculture, Forestry, Fishing",0,2853118,2026,0,0
+Kansas,Construction,0,2853118,2026,0,0
+Kentucky,"Oil & Gas Extraction, Mining",19,4339367,3823,0.4379,4.9699
+Kentucky,"Manufacturing, Durable Goods",297,4339367,3823,6.8443,77.6877
+Kentucky,"Manufacturing, Nondurable Goods",79,4339367,3823,1.8205,20.6644
+Kentucky,"Transportation, Communications, Utilities",84,4339367,3823,1.9358,21.9723
+Kentucky,Retail Trade,48,4339367,3823,1.1062,12.5556
+Kentucky,"Finance, Insurance, Real Estate",41,4339367,3823,0.9448,10.7246
+Kentucky,Services,96,4339367,3823,2.2123,25.1112
+Kentucky,Wholesale,2,4339367,3823,0.0461,0.5231
+Kentucky,"Agriculture, Forestry, Fishing",0,4339367,3823,0,0
+Kentucky,Construction,0,4339367,3823,0,0
+Louisiana,"Oil & Gas Extraction, Mining",64,4533372,2935,1.4118,21.8058
+Louisiana,"Manufacturing, Durable Goods",176,4533372,2935,3.8823,59.9659
+Louisiana,"Manufacturing, Nondurable Goods",56,4533372,2935,1.2353,19.0801
+Louisiana,"Transportation, Communications, Utilities",128,4533372,2935,2.8235,43.6116
+Louisiana,Retail Trade,23,4533372,2935,0.5073,7.8365
+Louisiana,"Finance, Insurance, Real Estate",53,4533372,2935,1.1691,18.0579
+Louisiana,Services,43,4533372,2935,0.9485,14.6508
+Louisiana,Wholesale,3,4533372,2935,0.0662,1.0221
+Louisiana,"Agriculture, Forestry, Fishing",0,4533372,2935,0,0
+Louisiana,Construction,0,4533372,2935,0,0
+Maine,"Manufacturing, Durable Goods",33,1328361,548,2.4843,60.219
+Maine,"Manufacturing, Nondurable Goods",6,1328361,548,0.4517,10.9489
+Maine,"Transportation, Communications, Utilities",9,1328361,548,0.6775,16.4234
+Maine,Retail Trade,4,1328361,548,0.3011,7.2993
+Maine,"Finance, Insurance, Real Estate",13,1328361,548,0.9786,23.7226
+Maine,Services,2,1328361,548,0.1506,3.6496
+Maine,"Oil & Gas Extraction, Mining",0,1328361,548,0,0
+Maine,"Agriculture, Forestry, Fishing",0,1328361,548,0,0
+Maine,Construction,0,1328361,548,0,0
+Maine,Wholesale,0,1328361,548,0,0
+Maryland,"Oil & Gas Extraction, Mining",1,5773552,4495,0.0173,0.2225
+Maryland,"Manufacturing, Durable Goods",217,5773552,4495,3.7585,48.2759
+Maryland,"Manufacturing, Nondurable Goods",35,5773552,4495,0.6062,7.7864
+Maryland,"Transportation, Communications, Utilities",355,5773552,4495,6.1487,78.9766
+Maryland,Retail Trade,44,5773552,4495,0.7621,9.7887
+Maryland,"Finance, Insurance, Real Estate",92,5773552,4495,1.5935,20.4672
+Maryland,Services,62,5773552,4495,1.0739,13.7931
+Maryland,Construction,1,5773552,4495,0.0173,0.2225
+Maryland,Wholesale,4,5773552,4495,0.0693,0.8899
+Maryland,"Agriculture, Forestry, Fishing",0,5773552,4495,0,0
+Massachusetts,"Oil & Gas Extraction, Mining",3,6547629,5945,0.0458,0.5046
+Massachusetts,"Manufacturing, Durable Goods",162,6547629,5945,2.4742,27.2498
+Massachusetts,"Manufacturing, Nondurable Goods",36,6547629,5945,0.5498,6.0555
+Massachusetts,"Transportation, Communications, Utilities",198,6547629,5945,3.024,33.3053
+Massachusetts,Retail Trade,32,6547629,5945,0.4887,5.3827
+Massachusetts,"Finance, Insurance, Real Estate",104,6547629,5945,1.5884,17.4937
+Massachusetts,Services,284,6547629,5945,4.3374,47.7712
+Massachusetts,"Agriculture, Forestry, Fishing",1,6547629,5945,0.0153,0.1682
+Massachusetts,Wholesale,4,6547629,5945,0.0611,0.6728
+Massachusetts,Construction,0,6547629,5945,0,0
+Michigan,"Oil & Gas Extraction, Mining",14,9883640,23231,0.1416,0.6026
+Michigan,"Manufacturing, Durable Goods",3037,9883640,23231,30.7275,130.7305
+Michigan,"Manufacturing, Nondurable Goods",194,9883640,23231,1.9628,8.3509
+Michigan,"Transportation, Communications, Utilities",281,9883640,23231,2.8431,12.0959
+Michigan,Retail Trade,61,9883640,23231,0.6172,2.6258
+Michigan,"Finance, Insurance, Real Estate",88,9883640,23231,0.8904,3.788
+Michigan,Services,759,9883640,23231,7.6794,32.6719
+Michigan,Wholesale,2,9883640,23231,0.0202,0.0861
+Michigan,"Agriculture, Forestry, Fishing",0,9883640,23231,0,0
+Michigan,Construction,0,9883640,23231,0,0
+Minnesota,"Oil & Gas Extraction, Mining",11,5303925,2775,0.2074,3.964
+Minnesota,"Manufacturing, Durable Goods",83,5303925,2775,1.5649,29.9099
+Minnesota,"Manufacturing, Nondurable Goods",53,5303925,2775,0.9993,19.0991
+Minnesota,"Transportation, Communications, Utilities",58,5303925,2775,1.0935,20.9009
+Minnesota,Retail Trade,87,5303925,2775,1.6403,31.3514
+Minnesota,"Finance, Insurance, Real Estate",55,5303925,2775,1.037,19.8198
+Minnesota,Services,64,5303925,2775,1.2067,23.0631
+Minnesota,Wholesale,5,5303925,2775,0.0943,1.8018
+Minnesota,"Agriculture, Forestry, Fishing",0,5303925,2775,0,0
+Minnesota,Construction,0,5303925,2775,0,0
+Mississippi,"Oil & Gas Extraction, Mining",9,2967297,4220,0.3033,2.1327
+Mississippi,"Manufacturing, Durable Goods",156,2967297,4220,5.2573,36.9668
+Mississippi,"Manufacturing, Nondurable Goods",59,2967297,4220,1.9883,13.981
+Mississippi,"Transportation, Communications, Utilities",80,2967297,4220,2.6961,18.9573
+Mississippi,Retail Trade,10,2967297,4220,0.337,2.3697
+Mississippi,"Finance, Insurance, Real Estate",10,2967297,4220,0.337,2.3697
+Mississippi,Services,35,2967297,4220,1.1795,8.2938
+Mississippi,Wholesale,1,2967297,4220,0.0337,0.237
+Mississippi,"Agriculture, Forestry, Fishing",0,2967297,4220,0,0
+Mississippi,Construction,0,2967297,4220,0,0
+Missouri,"Oil & Gas Extraction, Mining",10,5988927,8960,0.167,1.1161
+Missouri,"Manufacturing, Durable Goods",585,5988927,8960,9.768,65.2902
+Missouri,"Manufacturing, Nondurable Goods",155,5988927,8960,2.5881,17.2991
+Missouri,"Transportation, Communications, Utilities",297,5988927,8960,4.9592,33.1473
+Missouri,Retail Trade,55,5988927,8960,0.9184,6.1384
+Missouri,"Finance, Insurance, Real Estate",114,5988927,8960,1.9035,12.7232
+Missouri,Services,104,5988927,8960,1.7365,11.6071
+Missouri,Construction,1,5988927,8960,0.0167,0.1116
+Missouri,"Agriculture, Forestry, Fishing",0,5988927,8960,0,0
+Missouri,Wholesale,0,5988927,8960,0,0
+Montana,"Oil & Gas Extraction, Mining",3,989415,290,0.3032,10.3448
+Montana,"Manufacturing, Durable Goods",6,989415,290,0.6064,20.6897
+Montana,"Manufacturing, Nondurable Goods",5,989415,290,0.5053,17.2414
+Montana,"Transportation, Communications, Utilities",5,989415,290,0.5053,17.2414
+Montana,Retail Trade,5,989415,290,0.5053,17.2414
+Montana,"Finance, Insurance, Real Estate",1,989415,290,0.1011,3.4483
+Montana,Services,2,989415,290,0.2021,6.8966
+Montana,"Agriculture, Forestry, Fishing",0,989415,290,0,0
+Montana,Construction,0,989415,290,0,0
+Montana,Wholesale,0,989415,290,0,0
+Nebraska,"Manufacturing, Durable Goods",21,1826341,988,1.1498,21.2551
+Nebraska,"Manufacturing, Nondurable Goods",63,1826341,988,3.4495,63.7652
+Nebraska,"Transportation, Communications, Utilities",19,1826341,988,1.0403,19.2308
+Nebraska,Retail Trade,15,1826341,988,0.8213,15.1822
+Nebraska,"Finance, Insurance, Real Estate",13,1826341,988,0.7118,13.1579
+Nebraska,Services,23,1826341,988,1.2593,23.2794
+Nebraska,"Oil & Gas Extraction, Mining",0,1826341,988,0,0
+Nebraska,"Agriculture, Forestry, Fishing",0,1826341,988,0,0
+Nebraska,Construction,0,1826341,988,0,0
+Nebraska,Wholesale,0,1826341,988,0,0
+Nevada,"Oil & Gas Extraction, Mining",3,2700551,2031,0.1111,1.4771
+Nevada,"Manufacturing, Durable Goods",35,2700551,2031,1.296,17.2329
+Nevada,"Manufacturing, Nondurable Goods",9,2700551,2031,0.3333,4.4313
+Nevada,"Transportation, Communications, Utilities",48,2700551,2031,1.7774,23.6337
+Nevada,Retail Trade,15,2700551,2031,0.5554,7.3855
+Nevada,"Finance, Insurance, Real Estate",36,2700551,2031,1.3331,17.7253
+Nevada,Services,132,2700551,2031,4.8879,64.9926
+Nevada,Construction,2,2700551,2031,0.0741,0.9847
+Nevada,Wholesale,2,2700551,2031,0.0741,0.9847
+Nevada,"Agriculture, Forestry, Fishing",0,2700551,2031,0,0
+New Hampshire,"Manufacturing, Durable Goods",35,1316470,735,2.6586,47.619
+New Hampshire,"Manufacturing, Nondurable Goods",3,1316470,735,0.2279,4.0816
+New Hampshire,"Transportation, Communications, Utilities",26,1316470,735,1.975,35.3741
+New Hampshire,Retail Trade,3,1316470,735,0.2279,4.0816
+New Hampshire,"Finance, Insurance, Real Estate",18,1316470,735,1.3673,24.4898
+New Hampshire,Services,23,1316470,735,1.7471,31.2925
+New Hampshire,"Oil & Gas Extraction, Mining",0,1316470,735,0,0
+New Hampshire,"Agriculture, Forestry, Fishing",0,1316470,735,0,0
+New Hampshire,Construction,0,1316470,735,0,0
+New Hampshire,Wholesale,0,1316470,735,0,0
+New Jersey,"Oil & Gas Extraction, Mining",11,8791894,6690,0.1251,1.6442
+New Jersey,"Manufacturing, Durable Goods",187,8791894,6690,2.127,27.9522
+New Jersey,"Manufacturing, Nondurable Goods",132,8791894,6690,1.5014,19.7309
+New Jersey,"Transportation, Communications, Utilities",485,8791894,6690,5.5164,72.4963
+New Jersey,Retail Trade,80,8791894,6690,0.9099,11.9581
+New Jersey,"Finance, Insurance, Real Estate",238,8791894,6690,2.707,35.5755
+New Jersey,Services,52,8791894,6690,0.5915,7.7728
+New Jersey,Wholesale,9,8791894,6690,0.1024,1.3453
+New Jersey,"Agriculture, Forestry, Fishing",0,8791894,6690,0,0
+New Jersey,Construction,0,8791894,6690,0,0
+New Mexico,"Oil & Gas Extraction, Mining",10,2059179,508,0.4856,19.685
+New Mexico,"Manufacturing, Durable Goods",19,2059179,508,0.9227,37.4016
+New Mexico,"Manufacturing, Nondurable Goods",10,2059179,508,0.4856,19.685
+New Mexico,"Transportation, Communications, Utilities",16,2059179,508,0.777,31.4961
+New Mexico,Retail Trade,4,2059179,508,0.1943,7.874
+New Mexico,"Finance, Insurance, Real Estate",6,2059179,508,0.2914,11.811
+New Mexico,Services,17,2059179,508,0.8256,33.4646
+New Mexico,"Agriculture, Forestry, Fishing",0,2059179,508,0,0
+New Mexico,Construction,0,2059179,508,0,0
+New Mexico,Wholesale,0,2059179,508,0,0
+New York,"Manufacturing, Durable Goods",531,19378102,9491,2.7402,55.9477
+New York,"Manufacturing, Nondurable Goods",90,19378102,9491,0.4644,9.4827
+New York,"Transportation, Communications, Utilities",502,19378102,9491,2.5906,52.8922
+New York,Retail Trade,81,19378102,9491,0.418,8.5344
+New York,"Finance, Insurance, Real Estate",319,19378102,9491,1.6462,33.6108
+New York,Services,118,19378102,9491,0.6089,12.4328
+New York,Construction,1,19378102,9491,0.0052,0.1054
+New York,"Oil & Gas Extraction, Mining",0,19378102,9491,0,0
+New York,"Agriculture, Forestry, Fishing",0,19378102,9491,0,0
+New York,Wholesale,0,19378102,9491,0,0
+North Carolina,"Oil & Gas Extraction, Mining",1,9535483,5321,0.0105,0.1879
+North Carolina,"Manufacturing, Durable Goods",190,9535483,5321,1.9926,35.7076
+North Carolina,"Manufacturing, Nondurable Goods",198,9535483,5321,2.0765,37.2111
+North Carolina,"Transportation, Communications, Utilities",219,9535483,5321,2.2967,41.1577
+North Carolina,Retail Trade,69,9535483,5321,0.7236,12.9675
+North Carolina,"Finance, Insurance, Real Estate",157,9535483,5321,1.6465,29.5057
+North Carolina,Services,157,9535483,5321,1.6465,29.5057
+North Carolina,Wholesale,6,9535483,5321,0.0629,1.1276
+North Carolina,"Agriculture, Forestry, Fishing",0,9535483,5321,0,0
+North Carolina,Construction,0,9535483,5321,0,0
+North Dakota,"Oil & Gas Extraction, Mining",1,672591,264,0.1487,3.7879
+North Dakota,"Manufacturing, Durable Goods",26,672591,264,3.8656,98.4848
+North Dakota,"Manufacturing, Nondurable Goods",5,672591,264,0.7434,18.9394
+North Dakota,"Transportation, Communications, Utilities",1,672591,264,0.1487,3.7879
+North Dakota,"Finance, Insurance, Real Estate",5,672591,264,0.7434,18.9394
+North Dakota,Services,1,672591,264,0.1487,3.7879
+North Dakota,Retail Trade,0,672591,264,0,0
+North Dakota,"Agriculture, Forestry, Fishing",0,672591,264,0,0
+North Dakota,Construction,0,672591,264,0,0
+North Dakota,Wholesale,0,672591,264,0,0
+Ohio,"Oil & Gas Extraction, Mining",43,11536504,18596,0.3727,2.3123
+Ohio,"Manufacturing, Durable Goods",1886,11536504,18596,16.3481,101.4197
+Ohio,"Manufacturing, Nondurable Goods",170,11536504,18596,1.4736,9.1418
+Ohio,"Transportation, Communications, Utilities",424,11536504,18596,3.6753,22.8006
+Ohio,Retail Trade,165,11536504,18596,1.4302,8.8729
+Ohio,"Finance, Insurance, Real Estate",270,11536504,18596,2.3404,14.5193
+Ohio,Services,378,11536504,18596,3.2766,20.327
+Ohio,Wholesale,4,11536504,18596,0.0347,0.2151
+Ohio,"Agriculture, Forestry, Fishing",0,11536504,18596,0,0
+Ohio,Construction,0,11536504,18596,0,0
+Oklahoma,"Oil & Gas Extraction, Mining",45,3751351,2496,1.1996,18.0288
+Oklahoma,"Manufacturing, Durable Goods",135,3751351,2496,3.5987,54.0865
+Oklahoma,"Manufacturing, Nondurable Goods",56,3751351,2496,1.4928,22.4359
+Oklahoma,"Transportation, Communications, Utilities",153,3751351,2496,4.0785,61.2981
+Oklahoma,Retail Trade,18,3751351,2496,0.4798,7.2115
+Oklahoma,"Finance, Insurance, Real Estate",28,3751351,2496,0.7464,11.2179
+Oklahoma,Services,30,3751351,2496,0.7997,12.0192
+Oklahoma,Wholesale,1,3751351,2496,0.0267,0.4006
+Oklahoma,"Agriculture, Forestry, Fishing",0,3751351,2496,0,0
+Oklahoma,Construction,0,3751351,2496,0,0
+Oregon,"Manufacturing, Durable Goods",65,3831074,3046,1.6967,21.3395
+Oregon,"Manufacturing, Nondurable Goods",25,3831074,3046,0.6526,8.2075
+Oregon,"Transportation, Communications, Utilities",29,3831074,3046,0.757,9.5207
+Oregon,Retail Trade,46,3831074,3046,1.2007,15.1018
+Oregon,"Finance, Insurance, Real Estate",24,3831074,3046,0.6265,7.8792
+Oregon,Services,260,3831074,3046,6.7866,85.3578
+Oregon,"Oil & Gas Extraction, Mining",0,3831074,3046,0,0
+Oregon,"Agriculture, Forestry, Fishing",0,3831074,3046,0,0
+Oregon,Construction,0,3831074,3046,0,0
+Oregon,Wholesale,0,3831074,3046,0,0
+Pennsylvania,"Oil & Gas Extraction, Mining",5,12702379,8980,0.0394,0.5568
+Pennsylvania,"Manufacturing, Durable Goods",401,12702379,8980,3.1569,44.6548
+Pennsylvania,"Manufacturing, Nondurable Goods",187,12702379,8980,1.4722,20.8241
+Pennsylvania,"Transportation, Communications, Utilities",429,12702379,8980,3.3773,47.7728
+Pennsylvania,Retail Trade,129,12702379,8980,1.0156,14.3653
+Pennsylvania,"Finance, Insurance, Real Estate",197,12702379,8980,1.5509,21.9376
+Pennsylvania,Services,111,12702379,8980,0.8739,12.3608
+Pennsylvania,Wholesale,6,12702379,8980,0.0472,0.6682
+Pennsylvania,"Agriculture, Forestry, Fishing",0,12702379,8980,0,0
+Pennsylvania,Construction,0,12702379,8980,0,0
+Puerto Rico,"Manufacturing, Durable Goods",1,3725789,117,0.0268,8.547
+Puerto Rico,"Manufacturing, Nondurable Goods",7,3725789,117,0.1879,59.8291
+Puerto Rico,"Transportation, Communications, Utilities",2,3725789,117,0.0537,17.094
+Puerto Rico,"Finance, Insurance, Real Estate",1,3725789,117,0.0268,8.547
+Puerto Rico,"Oil & Gas Extraction, Mining",0,3725789,117,0,0
+Puerto Rico,Retail Trade,0,3725789,117,0,0
+Puerto Rico,Services,0,3725789,117,0,0
+Puerto Rico,"Agriculture, Forestry, Fishing",0,3725789,117,0,0
+Puerto Rico,Construction,0,3725789,117,0,0
+Puerto Rico,Wholesale,0,3725789,117,0,0
+Rhode Island,"Oil & Gas Extraction, Mining",1,1052567,795,0.095,1.2579
+Rhode Island,"Manufacturing, Durable Goods",34,1052567,795,3.2302,42.7673
+Rhode Island,"Manufacturing, Nondurable Goods",3,1052567,795,0.285,3.7736
+Rhode Island,"Transportation, Communications, Utilities",17,1052567,795,1.6151,21.3836
+Rhode Island,Retail Trade,16,1052567,795,1.5201,20.1258
+Rhode Island,"Finance, Insurance, Real Estate",14,1052567,795,1.3301,17.6101
+Rhode Island,Services,14,1052567,795,1.3301,17.6101
+Rhode Island,"Agriculture, Forestry, Fishing",0,1052567,795,0,0
+Rhode Island,Construction,0,1052567,795,0,0
+Rhode Island,Wholesale,0,1052567,795,0,0
+South Carolina,"Manufacturing, Durable Goods",143,4625364,2399,3.0916,59.6082
+South Carolina,"Manufacturing, Nondurable Goods",80,4625364,2399,1.7296,33.3472
+South Carolina,"Transportation, Communications, Utilities",130,4625364,2399,2.8106,54.1892
+South Carolina,Retail Trade,36,4625364,2399,0.7783,15.0063
+South Carolina,"Finance, Insurance, Real Estate",35,4625364,2399,0.7567,14.5894
+South Carolina,Services,30,4625364,2399,0.6486,12.5052
+South Carolina,Wholesale,3,4625364,2399,0.0649,1.2505
+South Carolina,"Oil & Gas Extraction, Mining",0,4625364,2399,0,0
+South Carolina,"Agriculture, Forestry, Fishing",0,4625364,2399,0,0
+South Carolina,Construction,0,4625364,2399,0,0
+South Dakota,"Manufacturing, Durable Goods",3,814180,360,0.3685,8.3333
+South Dakota,"Manufacturing, Nondurable Goods",18,814180,360,2.2108,50
+South Dakota,"Transportation, Communications, Utilities",5,814180,360,0.6141,13.8889
+South Dakota,Retail Trade,3,814180,360,0.3685,8.3333
+South Dakota,"Finance, Insurance, Real Estate",22,814180,360,2.7021,61.1111
+South Dakota,Services,10,814180,360,1.2282,27.7778
+South Dakota,"Oil & Gas Extraction, Mining",0,814180,360,0,0
+South Dakota,"Agriculture, Forestry, Fishing",0,814180,360,0,0
+South Dakota,Construction,0,814180,360,0,0
+South Dakota,Wholesale,0,814180,360,0,0
+Tennessee,"Oil & Gas Extraction, Mining",3,6346105,10788,0.0473,0.2781
+Tennessee,"Manufacturing, Durable Goods",354,6346105,10788,5.5782,32.8142
+Tennessee,"Manufacturing, Nondurable Goods",205,6346105,10788,3.2303,19.0026
+Tennessee,"Transportation, Communications, Utilities",444,6346105,10788,6.9964,41.1568
+Tennessee,Retail Trade,70,6346105,10788,1.103,6.4887
+Tennessee,"Finance, Insurance, Real Estate",62,6346105,10788,0.977,5.7471
+Tennessee,Services,187,6346105,10788,2.9467,17.3341
+Tennessee,Wholesale,12,6346105,10788,0.1891,1.1123
+Tennessee,"Agriculture, Forestry, Fishing",0,6346105,10788,0,0
+Tennessee,Construction,0,6346105,10788,0,0
+Texas,"Oil & Gas Extraction, Mining",214,25145561,24161,0.851,8.8572
+Texas,"Manufacturing, Durable Goods",719,25145561,24161,2.8594,29.7587
+Texas,"Manufacturing, Nondurable Goods",555,25145561,24161,2.2071,22.9709
+Texas,"Transportation, Communications, Utilities",1078,25145561,24161,4.287,44.6174
+Texas,Retail Trade,307,25145561,24161,1.2209,12.7064
+Texas,"Finance, Insurance, Real Estate",590,25145561,24161,2.3463,24.4195
+Texas,Services,964,25145561,24161,3.8337,39.899
+Texas,Construction,2,25145561,24161,0.008,0.0828
+Texas,Wholesale,15,25145561,24161,0.0597,0.6208
+Texas,"Agriculture, Forestry, Fishing",0,25145561,24161,0,0
+Utah,"Oil & Gas Extraction, Mining",4,2763885,2598,0.1447,1.5396
+Utah,"Manufacturing, Durable Goods",19,2763885,2598,0.6874,7.3133
+Utah,"Manufacturing, Nondurable Goods",11,2763885,2598,0.398,4.234
+Utah,"Transportation, Communications, Utilities",29,2763885,2598,1.0492,11.1624
+Utah,Retail Trade,18,2763885,2598,0.6513,6.9284
+Utah,"Finance, Insurance, Real Estate",21,2763885,2598,0.7598,8.0831
+Utah,Services,20,2763885,2598,0.7236,7.6982
+Utah,Wholesale,1,2763885,2598,0.0362,0.3849
+Utah,"Agriculture, Forestry, Fishing",0,2763885,2598,0,0
+Utah,Construction,0,2763885,2598,0,0
+Vermont,"Manufacturing, Durable Goods",9,625741,188,1.4383,47.8723
+Vermont,"Manufacturing, Nondurable Goods",4,625741,188,0.6392,21.2766
+Vermont,"Transportation, Communications, Utilities",8,625741,188,1.2785,42.5532
+Vermont,Retail Trade,3,625741,188,0.4794,15.9574
+Vermont,"Finance, Insurance, Real Estate",1,625741,188,0.1598,5.3191
+Vermont,"Oil & Gas Extraction, Mining",0,625741,188,0,0
+Vermont,Services,0,625741,188,0,0
+Vermont,"Agriculture, Forestry, Fishing",0,625741,188,0,0
+Vermont,Construction,0,625741,188,0,0
+Vermont,Wholesale,0,625741,188,0,0
+Virginia,"Oil & Gas Extraction, Mining",2,8001024,4923,0.025,0.4063
+Virginia,"Manufacturing, Durable Goods",229,8001024,4923,2.8621,46.5164
+Virginia,"Manufacturing, Nondurable Goods",117,8001024,4923,1.4623,23.766
+Virginia,"Transportation, Communications, Utilities",239,8001024,4923,2.9871,48.5476
+Virginia,Retail Trade,80,8001024,4923,0.9999,16.2503
+Virginia,"Finance, Insurance, Real Estate",85,8001024,4923,1.0624,17.2659
+Virginia,Services,106,8001024,4923,1.3248,21.5316
+Virginia,Wholesale,4,8001024,4923,0.05,0.8125
+Virginia,"Agriculture, Forestry, Fishing",0,8001024,4923,0,0
+Virginia,Construction,0,8001024,4923,0,0
+Washington,"Oil & Gas Extraction, Mining",2,6724540,3538,0.0297,0.5653
+Washington,"Manufacturing, Durable Goods",193,6724540,3538,2.8701,54.5506
+Washington,"Manufacturing, Nondurable Goods",20,6724540,3538,0.2974,5.6529
+Washington,"Transportation, Communications, Utilities",90,6724540,3538,1.3384,25.4381
+Washington,Retail Trade,48,6724540,3538,0.7138,13.567
+Washington,"Finance, Insurance, Real Estate",34,6724540,3538,0.5056,9.6099
+Washington,Services,102,6724540,3538,1.5168,28.8298
+Washington,Construction,2,6724540,3538,0.0297,0.5653
+Washington,Wholesale,2,6724540,3538,0.0297,0.5653
+Washington,"Agriculture, Forestry, Fishing",0,6724540,3538,0,0
+West Virginia,"Oil & Gas Extraction, Mining",7,1852994,1245,0.3778,5.6225
+West Virginia,"Manufacturing, Durable Goods",51,1852994,1245,2.7523,40.9639
+West Virginia,"Manufacturing, Nondurable Goods",36,1852994,1245,1.9428,28.9157
+West Virginia,"Transportation, Communications, Utilities",100,1852994,1245,5.3967,80.3213
+West Virginia,Retail Trade,13,1852994,1245,0.7016,10.4418
+West Virginia,"Finance, Insurance, Real Estate",12,1852994,1245,0.6476,9.6386
+West Virginia,Services,28,1852994,1245,1.5111,22.49
+West Virginia,Wholesale,2,1852994,1245,0.1079,1.6064
+West Virginia,"Agriculture, Forestry, Fishing",0,1852994,1245,0,0
+West Virginia,Construction,0,1852994,1245,0,0
+Wisconsin,"Oil & Gas Extraction, Mining",6,5686986,3168,0.1055,1.8939
+Wisconsin,"Manufacturing, Durable Goods",167,5686986,3168,2.9365,52.7146
+Wisconsin,"Manufacturing, Nondurable Goods",100,5686986,3168,1.7584,31.5657
+Wisconsin,"Transportation, Communications, Utilities",84,5686986,3168,1.4771,26.5152
+Wisconsin,Retail Trade,38,5686986,3168,0.6682,11.9949
+Wisconsin,"Finance, Insurance, Real Estate",83,5686986,3168,1.4595,26.1995
+Wisconsin,Services,40,5686986,3168,0.7034,12.6263
+Wisconsin,Wholesale,2,5686986,3168,0.0352,0.6313
+Wisconsin,"Agriculture, Forestry, Fishing",0,5686986,3168,0,0
+Wisconsin,Construction,0,5686986,3168,0,0
+Wyoming,"Oil & Gas Extraction, Mining",3,563626,179,0.5323,16.7598
+Wyoming,"Manufacturing, Durable Goods",1,563626,179,0.1774,5.5866
+Wyoming,"Transportation, Communications, Utilities",2,563626,179,0.3548,11.1732
+Wyoming,Retail Trade,3,563626,179,0.5323,16.7598
+Wyoming,"Finance, Insurance, Real Estate",1,563626,179,0.1774,5.5866
+Wyoming,Services,13,563626,179,2.3065,72.6257
+Wyoming,"Manufacturing, Nondurable Goods",0,563626,179,0,0
+Wyoming,"Agriculture, Forestry, Fishing",0,563626,179,0,0
+Wyoming,Construction,0,563626,179,0,0
+Wyoming,Wholesale,0,563626,179,0,0

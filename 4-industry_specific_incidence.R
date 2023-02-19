@@ -64,7 +64,7 @@ calculate_state_incidences <- function(disease, var) {
             DS_RATE = round(CASES / STD_POP_DS, 4),
             CS_RATE = round(CASES / STD_POP_CS, 4)
         ) |>
-        select(STATE, !!var, CASES, CENSUSPOP, DS_POP, CS_RATE, DS_RATE) |>
+        select(STATE, !!var, CASES, CS_POP, DS_POP, CS_RATE, DS_RATE) |>
         write_csv(rate_output_file)
 
     rates
