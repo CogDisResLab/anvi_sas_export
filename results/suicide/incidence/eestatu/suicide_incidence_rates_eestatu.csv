@@ -1,460 +1,460 @@
 STATE,EESTATU,CASES,CS_POP,DS_POP,CS_RATE,DS_RATE
-Alabama,Salary Non-union,6,4779736,5730,0.1255,1.0471
-Alabama,Salary Union,1,4779736,5730,0.0209,0.1745
-Alabama,Salary Other,1,4779736,5730,0.0209,0.1745
-Alabama,Hourly Non-union,0,4779736,5730,0,0
-Alabama,Hourly Union,0,4779736,5730,0,0
-Alabama,Hourly Other,0,4779736,5730,0,0
-Alabama,Non-union,0,4779736,5730,0,0
-Alabama,Union,0,4779736,5730,0,0
-Alabama,Unknown,0,4779736,5730,0,0
-Alaska,Salary Non-union,1,710231,257,0.1408,3.8911
-Alaska,Salary Union,0,710231,257,0,0
-Alaska,Salary Other,0,710231,257,0,0
-Alaska,Hourly Non-union,0,710231,257,0,0
-Alaska,Hourly Union,0,710231,257,0,0
-Alaska,Hourly Other,0,710231,257,0,0
-Alaska,Non-union,0,710231,257,0,0
-Alaska,Union,0,710231,257,0,0
-Alaska,Unknown,0,710231,257,0,0
-Arizona,Salary Non-union,19,6392017,7456,0.2972,2.5483
-Arizona,Salary Union,1,6392017,7456,0.0156,0.1341
-Arizona,Salary Other,1,6392017,7456,0.0156,0.1341
-Arizona,Hourly Union,1,6392017,7456,0.0156,0.1341
-Arizona,Unknown,3,6392017,7456,0.0469,0.4024
-Arizona,Hourly Non-union,0,6392017,7456,0,0
-Arizona,Hourly Other,0,6392017,7456,0,0
-Arizona,Non-union,0,6392017,7456,0,0
-Arizona,Union,0,6392017,7456,0,0
-Arkansas,Salary Non-union,5,2915918,2052,0.1715,2.4366
-Arkansas,Salary Union,2,2915918,2052,0.0686,0.9747
-Arkansas,Hourly Union,1,2915918,2052,0.0343,0.4873
-Arkansas,Union,1,2915918,2052,0.0343,0.4873
-Arkansas,Salary Other,0,2915918,2052,0,0
-Arkansas,Hourly Non-union,0,2915918,2052,0,0
-Arkansas,Hourly Other,0,2915918,2052,0,0
-Arkansas,Non-union,0,2915918,2052,0,0
-Arkansas,Unknown,0,2915918,2052,0,0
-California,Salary Non-union,142,37253956,40228,0.3812,3.5299
-California,Salary Union,1,37253956,40228,0.0027,0.0249
-California,Salary Other,2,37253956,40228,0.0054,0.0497
-California,Hourly Union,16,37253956,40228,0.0429,0.3977
-California,Hourly Other,1,37253956,40228,0.0027,0.0249
-California,Unknown,10,37253956,40228,0.0268,0.2486
-California,Hourly Non-union,0,37253956,40228,0,0
-California,Non-union,0,37253956,40228,0,0
-California,Union,0,37253956,40228,0,0
-Colorado,Salary Non-union,8,5029196,3198,0.1591,2.5016
-Colorado,Unknown,4,5029196,3198,0.0795,1.2508
-Colorado,Salary Union,0,5029196,3198,0,0
-Colorado,Salary Other,0,5029196,3198,0,0
-Colorado,Hourly Non-union,0,5029196,3198,0,0
-Colorado,Hourly Union,0,5029196,3198,0,0
-Colorado,Hourly Other,0,5029196,3198,0,0
-Colorado,Non-union,0,5029196,3198,0,0
-Colorado,Union,0,5029196,3198,0,0
-Connecticut,Salary Non-union,10,3574097,3431,0.2798,2.9146
-Connecticut,Salary Other,1,3574097,3431,0.028,0.2915
-Connecticut,Salary Union,0,3574097,3431,0,0
-Connecticut,Hourly Non-union,0,3574097,3431,0,0
-Connecticut,Hourly Union,0,3574097,3431,0,0
-Connecticut,Hourly Other,0,3574097,3431,0,0
-Connecticut,Non-union,0,3574097,3431,0,0
-Connecticut,Union,0,3574097,3431,0,0
-Connecticut,Unknown,0,3574097,3431,0,0
-Delaware,Salary Non-union,2,897934,2088,0.2227,0.9579
-Delaware,Salary Union,0,897934,2088,0,0
-Delaware,Salary Other,0,897934,2088,0,0
-Delaware,Hourly Non-union,0,897934,2088,0,0
-Delaware,Hourly Union,0,897934,2088,0,0
-Delaware,Hourly Other,0,897934,2088,0,0
-Delaware,Non-union,0,897934,2088,0,0
-Delaware,Union,0,897934,2088,0,0
-Delaware,Unknown,0,897934,2088,0,0
-Florida,Salary Non-union,44,18801310,14966,0.234,2.94
-Florida,Salary Union,1,18801310,14966,0.0053,0.0668
-Florida,Salary Other,1,18801310,14966,0.0053,0.0668
-Florida,Hourly Other,5,18801310,14966,0.0266,0.3341
-Florida,Non-union,1,18801310,14966,0.0053,0.0668
-Florida,Union,1,18801310,14966,0.0053,0.0668
-Florida,Unknown,5,18801310,14966,0.0266,0.3341
-Florida,Hourly Non-union,0,18801310,14966,0,0
-Florida,Hourly Union,0,18801310,14966,0,0
-Georgia,Salary Non-union,43,9687653,22416,0.4439,1.9183
-Georgia,Salary Other,3,9687653,22416,0.031,0.1338
-Georgia,Hourly Other,1,9687653,22416,0.0103,0.0446
-Georgia,Non-union,1,9687653,22416,0.0103,0.0446
-Georgia,Unknown,4,9687653,22416,0.0413,0.1784
-Georgia,Salary Union,0,9687653,22416,0,0
-Georgia,Hourly Non-union,0,9687653,22416,0,0
-Georgia,Hourly Union,0,9687653,22416,0,0
-Georgia,Union,0,9687653,22416,0,0
-Hawaii,Salary Non-union,0,1360301,85,0,0
-Hawaii,Salary Union,0,1360301,85,0,0
-Hawaii,Salary Other,0,1360301,85,0,0
-Hawaii,Hourly Non-union,0,1360301,85,0,0
-Hawaii,Hourly Union,0,1360301,85,0,0
-Hawaii,Hourly Other,0,1360301,85,0,0
-Hawaii,Non-union,0,1360301,85,0,0
-Hawaii,Union,0,1360301,85,0,0
-Hawaii,Unknown,0,1360301,85,0,0
-Idaho,Salary Non-union,0,1567582,569,0,0
-Idaho,Salary Union,0,1567582,569,0,0
-Idaho,Salary Other,0,1567582,569,0,0
-Idaho,Hourly Non-union,0,1567582,569,0,0
-Idaho,Hourly Union,0,1567582,569,0,0
-Idaho,Hourly Other,0,1567582,569,0,0
-Idaho,Non-union,0,1567582,569,0,0
-Idaho,Union,0,1567582,569,0,0
-Idaho,Unknown,0,1567582,569,0,0
-Illinois,Salary Non-union,10,12830632,10670,0.0779,0.9372
-Illinois,Salary Union,2,12830632,10670,0.0156,0.1874
-Illinois,Unknown,3,12830632,10670,0.0234,0.2812
-Illinois,Salary Other,0,12830632,10670,0,0
-Illinois,Hourly Non-union,0,12830632,10670,0,0
-Illinois,Hourly Union,0,12830632,10670,0,0
-Illinois,Hourly Other,0,12830632,10670,0,0
-Illinois,Non-union,0,12830632,10670,0,0
-Illinois,Union,0,12830632,10670,0,0
-Indiana,Salary Non-union,7,6483802,7465,0.108,0.9377
-Indiana,Salary Other,1,6483802,7465,0.0154,0.134
-Indiana,Hourly Non-union,1,6483802,7465,0.0154,0.134
-Indiana,Unknown,3,6483802,7465,0.0463,0.4019
-Indiana,Salary Union,0,6483802,7465,0,0
-Indiana,Hourly Union,0,6483802,7465,0,0
-Indiana,Hourly Other,0,6483802,7465,0,0
-Indiana,Non-union,0,6483802,7465,0,0
-Indiana,Union,0,6483802,7465,0,0
-Iowa,Salary Non-union,5,3046355,1738,0.1641,2.8769
-Iowa,Salary Other,1,3046355,1738,0.0328,0.5754
-Iowa,Salary Union,0,3046355,1738,0,0
-Iowa,Hourly Non-union,0,3046355,1738,0,0
-Iowa,Hourly Union,0,3046355,1738,0,0
-Iowa,Hourly Other,0,3046355,1738,0,0
-Iowa,Non-union,0,3046355,1738,0,0
-Iowa,Union,0,3046355,1738,0,0
-Iowa,Unknown,0,3046355,1738,0,0
-Kansas,Salary Non-union,2,2853118,2026,0.0701,0.9872
-Kansas,Salary Union,0,2853118,2026,0,0
-Kansas,Salary Other,0,2853118,2026,0,0
-Kansas,Hourly Non-union,0,2853118,2026,0,0
-Kansas,Hourly Union,0,2853118,2026,0,0
-Kansas,Hourly Other,0,2853118,2026,0,0
-Kansas,Non-union,0,2853118,2026,0,0
-Kansas,Union,0,2853118,2026,0,0
-Kansas,Unknown,0,2853118,2026,0,0
-Kentucky,Salary Non-union,7,4339367,3823,0.1613,1.831
-Kentucky,Salary Other,1,4339367,3823,0.023,0.2616
-Kentucky,Non-union,1,4339367,3823,0.023,0.2616
-Kentucky,Salary Union,0,4339367,3823,0,0
-Kentucky,Hourly Non-union,0,4339367,3823,0,0
-Kentucky,Hourly Union,0,4339367,3823,0,0
-Kentucky,Hourly Other,0,4339367,3823,0,0
-Kentucky,Union,0,4339367,3823,0,0
-Kentucky,Unknown,0,4339367,3823,0,0
-Louisiana,Salary Non-union,4,4533372,2935,0.0882,1.3629
-Louisiana,Hourly Other,1,4533372,2935,0.0221,0.3407
-Louisiana,Unknown,1,4533372,2935,0.0221,0.3407
-Louisiana,Salary Union,0,4533372,2935,0,0
-Louisiana,Salary Other,0,4533372,2935,0,0
-Louisiana,Hourly Non-union,0,4533372,2935,0,0
-Louisiana,Hourly Union,0,4533372,2935,0,0
-Louisiana,Non-union,0,4533372,2935,0,0
-Louisiana,Union,0,4533372,2935,0,0
-Maine,Salary Non-union,1,1328361,548,0.0753,1.8248
-Maine,Salary Union,0,1328361,548,0,0
-Maine,Salary Other,0,1328361,548,0,0
-Maine,Hourly Non-union,0,1328361,548,0,0
-Maine,Hourly Union,0,1328361,548,0,0
-Maine,Hourly Other,0,1328361,548,0,0
-Maine,Non-union,0,1328361,548,0,0
-Maine,Union,0,1328361,548,0,0
-Maine,Unknown,0,1328361,548,0,0
-Maryland,Salary Non-union,5,5773552,4495,0.0866,1.1123
-Maryland,Salary Union,0,5773552,4495,0,0
-Maryland,Salary Other,0,5773552,4495,0,0
-Maryland,Hourly Non-union,0,5773552,4495,0,0
-Maryland,Hourly Union,0,5773552,4495,0,0
-Maryland,Hourly Other,0,5773552,4495,0,0
-Maryland,Non-union,0,5773552,4495,0,0
-Maryland,Union,0,5773552,4495,0,0
-Maryland,Unknown,0,5773552,4495,0,0
-Massachusetts,Salary Non-union,5,6547629,5945,0.0764,0.841
-Massachusetts,Salary Union,0,6547629,5945,0,0
-Massachusetts,Salary Other,0,6547629,5945,0,0
-Massachusetts,Hourly Non-union,0,6547629,5945,0,0
-Massachusetts,Hourly Union,0,6547629,5945,0,0
-Massachusetts,Hourly Other,0,6547629,5945,0,0
-Massachusetts,Non-union,0,6547629,5945,0,0
-Massachusetts,Union,0,6547629,5945,0,0
-Massachusetts,Unknown,0,6547629,5945,0,0
-Michigan,Salary Non-union,12,9883640,23231,0.1214,0.5166
-Michigan,Salary Union,1,9883640,23231,0.0101,0.043
-Michigan,Hourly Non-union,1,9883640,23231,0.0101,0.043
-Michigan,Hourly Other,1,9883640,23231,0.0101,0.043
-Michigan,Unknown,1,9883640,23231,0.0101,0.043
-Michigan,Salary Other,0,9883640,23231,0,0
-Michigan,Hourly Union,0,9883640,23231,0,0
-Michigan,Non-union,0,9883640,23231,0,0
-Michigan,Union,0,9883640,23231,0,0
-Minnesota,Salary Non-union,13,5303925,2775,0.2451,4.6847
-Minnesota,Salary Union,0,5303925,2775,0,0
-Minnesota,Salary Other,0,5303925,2775,0,0
-Minnesota,Hourly Non-union,0,5303925,2775,0,0
-Minnesota,Hourly Union,0,5303925,2775,0,0
-Minnesota,Hourly Other,0,5303925,2775,0,0
-Minnesota,Non-union,0,5303925,2775,0,0
-Minnesota,Union,0,5303925,2775,0,0
-Minnesota,Unknown,0,5303925,2775,0,0
-Mississippi,Salary Non-union,7,2967297,4220,0.2359,1.6588
-Mississippi,Salary Union,0,2967297,4220,0,0
-Mississippi,Salary Other,0,2967297,4220,0,0
-Mississippi,Hourly Non-union,0,2967297,4220,0,0
-Mississippi,Hourly Union,0,2967297,4220,0,0
-Mississippi,Hourly Other,0,2967297,4220,0,0
-Mississippi,Non-union,0,2967297,4220,0,0
-Mississippi,Union,0,2967297,4220,0,0
-Mississippi,Unknown,0,2967297,4220,0,0
-Missouri,Salary Non-union,18,5988927,8960,0.3006,2.0089
-Missouri,Hourly Union,1,5988927,8960,0.0167,0.1116
-Missouri,Union,1,5988927,8960,0.0167,0.1116
-Missouri,Unknown,1,5988927,8960,0.0167,0.1116
-Missouri,Salary Union,0,5988927,8960,0,0
-Missouri,Salary Other,0,5988927,8960,0,0
-Missouri,Hourly Non-union,0,5988927,8960,0,0
-Missouri,Hourly Other,0,5988927,8960,0,0
-Missouri,Non-union,0,5988927,8960,0,0
-Montana,Salary Non-union,0,989415,290,0,0
-Montana,Salary Union,0,989415,290,0,0
-Montana,Salary Other,0,989415,290,0,0
-Montana,Hourly Non-union,0,989415,290,0,0
-Montana,Hourly Union,0,989415,290,0,0
-Montana,Hourly Other,0,989415,290,0,0
-Montana,Non-union,0,989415,290,0,0
-Montana,Union,0,989415,290,0,0
-Montana,Unknown,0,989415,290,0,0
-Nebraska,Salary Non-union,1,1826341,988,0.0548,1.0121
-Nebraska,Salary Union,0,1826341,988,0,0
-Nebraska,Salary Other,0,1826341,988,0,0
-Nebraska,Hourly Non-union,0,1826341,988,0,0
-Nebraska,Hourly Union,0,1826341,988,0,0
-Nebraska,Hourly Other,0,1826341,988,0,0
-Nebraska,Non-union,0,1826341,988,0,0
-Nebraska,Union,0,1826341,988,0,0
-Nebraska,Unknown,0,1826341,988,0,0
-Nevada,Salary Non-union,7,2700551,2031,0.2592,3.4466
-Nevada,Salary Union,1,2700551,2031,0.037,0.4924
-Nevada,Salary Other,0,2700551,2031,0,0
-Nevada,Hourly Non-union,0,2700551,2031,0,0
-Nevada,Hourly Union,0,2700551,2031,0,0
-Nevada,Hourly Other,0,2700551,2031,0,0
-Nevada,Non-union,0,2700551,2031,0,0
-Nevada,Union,0,2700551,2031,0,0
-Nevada,Unknown,0,2700551,2031,0,0
-New Hampshire,Salary Non-union,1,1316470,735,0.076,1.3605
-New Hampshire,Salary Union,0,1316470,735,0,0
-New Hampshire,Salary Other,0,1316470,735,0,0
-New Hampshire,Hourly Non-union,0,1316470,735,0,0
-New Hampshire,Hourly Union,0,1316470,735,0,0
-New Hampshire,Hourly Other,0,1316470,735,0,0
-New Hampshire,Non-union,0,1316470,735,0,0
-New Hampshire,Union,0,1316470,735,0,0
-New Hampshire,Unknown,0,1316470,735,0,0
-New Jersey,Salary Non-union,8,8791894,6690,0.091,1.1958
-New Jersey,Salary Other,2,8791894,6690,0.0227,0.299
-New Jersey,Unknown,1,8791894,6690,0.0114,0.1495
-New Jersey,Salary Union,0,8791894,6690,0,0
-New Jersey,Hourly Non-union,0,8791894,6690,0,0
-New Jersey,Hourly Union,0,8791894,6690,0,0
-New Jersey,Hourly Other,0,8791894,6690,0,0
-New Jersey,Non-union,0,8791894,6690,0,0
-New Jersey,Union,0,8791894,6690,0,0
-New Mexico,Salary Non-union,4,2059179,508,0.1943,7.874
-New Mexico,Salary Union,0,2059179,508,0,0
-New Mexico,Salary Other,0,2059179,508,0,0
-New Mexico,Hourly Non-union,0,2059179,508,0,0
-New Mexico,Hourly Union,0,2059179,508,0,0
-New Mexico,Hourly Other,0,2059179,508,0,0
-New Mexico,Non-union,0,2059179,508,0,0
-New Mexico,Union,0,2059179,508,0,0
-New Mexico,Unknown,0,2059179,508,0,0
-New York,Salary Non-union,12,19378102,9491,0.0619,1.2644
-New York,Salary Other,1,19378102,9491,0.0052,0.1054
-New York,Hourly Other,1,19378102,9491,0.0052,0.1054
-New York,Unknown,1,19378102,9491,0.0052,0.1054
-New York,Salary Union,0,19378102,9491,0,0
-New York,Hourly Non-union,0,19378102,9491,0,0
-New York,Hourly Union,0,19378102,9491,0,0
-New York,Non-union,0,19378102,9491,0,0
-New York,Union,0,19378102,9491,0,0
-North Carolina,Salary Non-union,2,9535483,5321,0.021,0.3759
-North Carolina,Salary Union,1,9535483,5321,0.0105,0.1879
-North Carolina,Salary Other,1,9535483,5321,0.0105,0.1879
-North Carolina,Unknown,1,9535483,5321,0.0105,0.1879
-North Carolina,Hourly Non-union,0,9535483,5321,0,0
-North Carolina,Hourly Union,0,9535483,5321,0,0
-North Carolina,Hourly Other,0,9535483,5321,0,0
-North Carolina,Non-union,0,9535483,5321,0,0
-North Carolina,Union,0,9535483,5321,0,0
-North Dakota,Salary Non-union,1,672591,264,0.1487,3.7879
-North Dakota,Salary Union,0,672591,264,0,0
-North Dakota,Salary Other,0,672591,264,0,0
-North Dakota,Hourly Non-union,0,672591,264,0,0
-North Dakota,Hourly Union,0,672591,264,0,0
-North Dakota,Hourly Other,0,672591,264,0,0
-North Dakota,Non-union,0,672591,264,0,0
-North Dakota,Union,0,672591,264,0,0
-North Dakota,Unknown,0,672591,264,0,0
-Ohio,Salary Non-union,17,11536504,18596,0.1474,0.9142
-Ohio,Salary Union,1,11536504,18596,0.0087,0.0538
-Ohio,Salary Other,2,11536504,18596,0.0173,0.1076
-Ohio,Hourly Other,2,11536504,18596,0.0173,0.1076
-Ohio,Unknown,6,11536504,18596,0.052,0.3227
-Ohio,Hourly Non-union,0,11536504,18596,0,0
-Ohio,Hourly Union,0,11536504,18596,0,0
-Ohio,Non-union,0,11536504,18596,0,0
-Ohio,Union,0,11536504,18596,0,0
-Oklahoma,Salary Non-union,6,3751351,2496,0.1599,2.4038
-Oklahoma,Unknown,1,3751351,2496,0.0267,0.4006
-Oklahoma,Salary Union,0,3751351,2496,0,0
-Oklahoma,Salary Other,0,3751351,2496,0,0
-Oklahoma,Hourly Non-union,0,3751351,2496,0,0
-Oklahoma,Hourly Union,0,3751351,2496,0,0
-Oklahoma,Hourly Other,0,3751351,2496,0,0
-Oklahoma,Non-union,0,3751351,2496,0,0
-Oklahoma,Union,0,3751351,2496,0,0
-Oregon,Salary Non-union,20,3831074,3046,0.522,6.566
-Oregon,Salary Union,5,3831074,3046,0.1305,1.6415
-Oregon,Salary Other,1,3831074,3046,0.0261,0.3283
-Oregon,Hourly Union,1,3831074,3046,0.0261,0.3283
-Oregon,Hourly Other,1,3831074,3046,0.0261,0.3283
-Oregon,Unknown,1,3831074,3046,0.0261,0.3283
-Oregon,Hourly Non-union,0,3831074,3046,0,0
-Oregon,Non-union,0,3831074,3046,0,0
-Oregon,Union,0,3831074,3046,0,0
-Pennsylvania,Salary Non-union,16,12702379,8980,0.126,1.7817
-Pennsylvania,Unknown,1,12702379,8980,0.0079,0.1114
-Pennsylvania,Salary Union,0,12702379,8980,0,0
-Pennsylvania,Salary Other,0,12702379,8980,0,0
-Pennsylvania,Hourly Non-union,0,12702379,8980,0,0
-Pennsylvania,Hourly Union,0,12702379,8980,0,0
-Pennsylvania,Hourly Other,0,12702379,8980,0,0
-Pennsylvania,Non-union,0,12702379,8980,0,0
-Pennsylvania,Union,0,12702379,8980,0,0
-Puerto Rico,Salary Non-union,0,3725789,117,0,0
-Puerto Rico,Salary Union,0,3725789,117,0,0
-Puerto Rico,Salary Other,0,3725789,117,0,0
-Puerto Rico,Hourly Non-union,0,3725789,117,0,0
-Puerto Rico,Hourly Union,0,3725789,117,0,0
-Puerto Rico,Hourly Other,0,3725789,117,0,0
-Puerto Rico,Non-union,0,3725789,117,0,0
-Puerto Rico,Union,0,3725789,117,0,0
-Puerto Rico,Unknown,0,3725789,117,0,0
-Rhode Island,Salary Non-union,1,1052567,795,0.095,1.2579
-Rhode Island,Salary Union,1,1052567,795,0.095,1.2579
-Rhode Island,Salary Other,0,1052567,795,0,0
-Rhode Island,Hourly Non-union,0,1052567,795,0,0
-Rhode Island,Hourly Union,0,1052567,795,0,0
-Rhode Island,Hourly Other,0,1052567,795,0,0
-Rhode Island,Non-union,0,1052567,795,0,0
-Rhode Island,Union,0,1052567,795,0,0
-Rhode Island,Unknown,0,1052567,795,0,0
-South Carolina,Salary Non-union,4,4625364,2399,0.0865,1.6674
-South Carolina,Salary Union,0,4625364,2399,0,0
-South Carolina,Salary Other,0,4625364,2399,0,0
-South Carolina,Hourly Non-union,0,4625364,2399,0,0
-South Carolina,Hourly Union,0,4625364,2399,0,0
-South Carolina,Hourly Other,0,4625364,2399,0,0
-South Carolina,Non-union,0,4625364,2399,0,0
-South Carolina,Union,0,4625364,2399,0,0
-South Carolina,Unknown,0,4625364,2399,0,0
-South Dakota,Salary Non-union,0,814180,360,0,0
-South Dakota,Salary Union,0,814180,360,0,0
-South Dakota,Salary Other,0,814180,360,0,0
-South Dakota,Hourly Non-union,0,814180,360,0,0
-South Dakota,Hourly Union,0,814180,360,0,0
-South Dakota,Hourly Other,0,814180,360,0,0
-South Dakota,Non-union,0,814180,360,0,0
-South Dakota,Union,0,814180,360,0,0
-South Dakota,Unknown,0,814180,360,0,0
-Tennessee,Salary Non-union,27,6346105,10788,0.4255,2.5028
-Tennessee,Salary Union,3,6346105,10788,0.0473,0.2781
-Tennessee,Salary Other,3,6346105,10788,0.0473,0.2781
-Tennessee,Unknown,3,6346105,10788,0.0473,0.2781
-Tennessee,Hourly Non-union,0,6346105,10788,0,0
-Tennessee,Hourly Union,0,6346105,10788,0,0
-Tennessee,Hourly Other,0,6346105,10788,0,0
-Tennessee,Non-union,0,6346105,10788,0,0
-Tennessee,Union,0,6346105,10788,0,0
-Texas,Salary Non-union,33,25145561,24161,0.1312,1.3658
-Texas,Salary Other,1,25145561,24161,0.004,0.0414
-Texas,Hourly Non-union,1,25145561,24161,0.004,0.0414
-Texas,Union,1,25145561,24161,0.004,0.0414
-Texas,Unknown,4,25145561,24161,0.0159,0.1656
-Texas,Salary Union,0,25145561,24161,0,0
-Texas,Hourly Union,0,25145561,24161,0,0
-Texas,Hourly Other,0,25145561,24161,0,0
-Texas,Non-union,0,25145561,24161,0,0
-Utah,Salary Non-union,51,2763885,2598,1.8452,19.6305
-Utah,Salary Other,1,2763885,2598,0.0362,0.3849
-Utah,Salary Union,0,2763885,2598,0,0
-Utah,Hourly Non-union,0,2763885,2598,0,0
-Utah,Hourly Union,0,2763885,2598,0,0
-Utah,Hourly Other,0,2763885,2598,0,0
-Utah,Non-union,0,2763885,2598,0,0
-Utah,Union,0,2763885,2598,0,0
-Utah,Unknown,0,2763885,2598,0,0
-Vermont,Salary Non-union,0,625741,188,0,0
-Vermont,Salary Union,0,625741,188,0,0
-Vermont,Salary Other,0,625741,188,0,0
-Vermont,Hourly Non-union,0,625741,188,0,0
-Vermont,Hourly Union,0,625741,188,0,0
-Vermont,Hourly Other,0,625741,188,0,0
-Vermont,Non-union,0,625741,188,0,0
-Vermont,Union,0,625741,188,0,0
-Vermont,Unknown,0,625741,188,0,0
-Virginia,Salary Non-union,9,8001024,4923,0.1125,1.8282
-Virginia,Salary Union,1,8001024,4923,0.0125,0.2031
-Virginia,Salary Other,1,8001024,4923,0.0125,0.2031
-Virginia,Hourly Non-union,0,8001024,4923,0,0
-Virginia,Hourly Union,0,8001024,4923,0,0
-Virginia,Hourly Other,0,8001024,4923,0,0
-Virginia,Non-union,0,8001024,4923,0,0
-Virginia,Union,0,8001024,4923,0,0
-Virginia,Unknown,0,8001024,4923,0,0
-Washington,Salary Non-union,14,6724540,3538,0.2082,3.957
-Washington,Salary Union,0,6724540,3538,0,0
-Washington,Salary Other,0,6724540,3538,0,0
-Washington,Hourly Non-union,0,6724540,3538,0,0
-Washington,Hourly Union,0,6724540,3538,0,0
-Washington,Hourly Other,0,6724540,3538,0,0
-Washington,Non-union,0,6724540,3538,0,0
-Washington,Union,0,6724540,3538,0,0
-Washington,Unknown,0,6724540,3538,0,0
-West Virginia,Salary Non-union,1,1852994,1245,0.054,0.8032
-West Virginia,Salary Union,0,1852994,1245,0,0
-West Virginia,Salary Other,0,1852994,1245,0,0
-West Virginia,Hourly Non-union,0,1852994,1245,0,0
-West Virginia,Hourly Union,0,1852994,1245,0,0
-West Virginia,Hourly Other,0,1852994,1245,0,0
-West Virginia,Non-union,0,1852994,1245,0,0
-West Virginia,Union,0,1852994,1245,0,0
-West Virginia,Unknown,0,1852994,1245,0,0
-Wisconsin,Salary Non-union,12,5686986,3168,0.211,3.7879
-Wisconsin,Salary Union,1,5686986,3168,0.0176,0.3157
-Wisconsin,Salary Other,0,5686986,3168,0,0
-Wisconsin,Hourly Non-union,0,5686986,3168,0,0
-Wisconsin,Hourly Union,0,5686986,3168,0,0
-Wisconsin,Hourly Other,0,5686986,3168,0,0
-Wisconsin,Non-union,0,5686986,3168,0,0
-Wisconsin,Union,0,5686986,3168,0,0
-Wisconsin,Unknown,0,5686986,3168,0,0
-Wyoming,Salary Non-union,2,563626,179,0.3548,11.1732
-Wyoming,Salary Union,0,563626,179,0,0
-Wyoming,Salary Other,0,563626,179,0,0
-Wyoming,Hourly Non-union,0,563626,179,0,0
-Wyoming,Hourly Union,0,563626,179,0,0
-Wyoming,Hourly Other,0,563626,179,0,0
-Wyoming,Non-union,0,563626,179,0,0
-Wyoming,Union,0,563626,179,0,0
-Wyoming,Unknown,0,563626,179,0,0
+Alabama,Active Full Time,6,4779736,5730,0.1255,1.0471
+Alabama,Active Part Time or Seasonal,1,4779736,5730,0.0209,0.1745
+Alabama,Early Retiree,1,4779736,5730,0.0209,0.1745
+Alabama,Medicare Eligible Retiree,0,4779736,5730,0,0
+Alabama,Retiree (status unknown),0,4779736,5730,0,0
+Alabama,COBRA Continuee,0,4779736,5730,0,0
+Alabama,Long Term Disability,0,4779736,5730,0,0
+Alabama,Surviving Spouse/Depend.,0,4779736,5730,0,0
+Alabama,Other/Unknown,0,4779736,5730,0,0
+Alaska,Active Full Time,1,710231,257,0.1408,3.8911
+Alaska,Active Part Time or Seasonal,0,710231,257,0,0
+Alaska,Early Retiree,0,710231,257,0,0
+Alaska,Medicare Eligible Retiree,0,710231,257,0,0
+Alaska,Retiree (status unknown),0,710231,257,0,0
+Alaska,COBRA Continuee,0,710231,257,0,0
+Alaska,Long Term Disability,0,710231,257,0,0
+Alaska,Surviving Spouse/Depend.,0,710231,257,0,0
+Alaska,Other/Unknown,0,710231,257,0,0
+Arizona,Active Full Time,19,6392017,7456,0.2972,2.5483
+Arizona,Active Part Time or Seasonal,1,6392017,7456,0.0156,0.1341
+Arizona,Early Retiree,1,6392017,7456,0.0156,0.1341
+Arizona,Retiree (status unknown),1,6392017,7456,0.0156,0.1341
+Arizona,Other/Unknown,3,6392017,7456,0.0469,0.4024
+Arizona,Medicare Eligible Retiree,0,6392017,7456,0,0
+Arizona,COBRA Continuee,0,6392017,7456,0,0
+Arizona,Long Term Disability,0,6392017,7456,0,0
+Arizona,Surviving Spouse/Depend.,0,6392017,7456,0,0
+Arkansas,Active Full Time,5,2915918,2052,0.1715,2.4366
+Arkansas,Active Part Time or Seasonal,2,2915918,2052,0.0686,0.9747
+Arkansas,Retiree (status unknown),1,2915918,2052,0.0343,0.4873
+Arkansas,Surviving Spouse/Depend.,1,2915918,2052,0.0343,0.4873
+Arkansas,Early Retiree,0,2915918,2052,0,0
+Arkansas,Medicare Eligible Retiree,0,2915918,2052,0,0
+Arkansas,COBRA Continuee,0,2915918,2052,0,0
+Arkansas,Long Term Disability,0,2915918,2052,0,0
+Arkansas,Other/Unknown,0,2915918,2052,0,0
+California,Active Full Time,142,37253956,40228,0.3812,3.5299
+California,Active Part Time or Seasonal,1,37253956,40228,0.0027,0.0249
+California,Early Retiree,2,37253956,40228,0.0054,0.0497
+California,Retiree (status unknown),16,37253956,40228,0.0429,0.3977
+California,COBRA Continuee,1,37253956,40228,0.0027,0.0249
+California,Other/Unknown,10,37253956,40228,0.0268,0.2486
+California,Medicare Eligible Retiree,0,37253956,40228,0,0
+California,Long Term Disability,0,37253956,40228,0,0
+California,Surviving Spouse/Depend.,0,37253956,40228,0,0
+Colorado,Active Full Time,8,5029196,3198,0.1591,2.5016
+Colorado,Other/Unknown,4,5029196,3198,0.0795,1.2508
+Colorado,Active Part Time or Seasonal,0,5029196,3198,0,0
+Colorado,Early Retiree,0,5029196,3198,0,0
+Colorado,Medicare Eligible Retiree,0,5029196,3198,0,0
+Colorado,Retiree (status unknown),0,5029196,3198,0,0
+Colorado,COBRA Continuee,0,5029196,3198,0,0
+Colorado,Long Term Disability,0,5029196,3198,0,0
+Colorado,Surviving Spouse/Depend.,0,5029196,3198,0,0
+Connecticut,Active Full Time,10,3574097,3431,0.2798,2.9146
+Connecticut,Early Retiree,1,3574097,3431,0.028,0.2915
+Connecticut,Active Part Time or Seasonal,0,3574097,3431,0,0
+Connecticut,Medicare Eligible Retiree,0,3574097,3431,0,0
+Connecticut,Retiree (status unknown),0,3574097,3431,0,0
+Connecticut,COBRA Continuee,0,3574097,3431,0,0
+Connecticut,Long Term Disability,0,3574097,3431,0,0
+Connecticut,Surviving Spouse/Depend.,0,3574097,3431,0,0
+Connecticut,Other/Unknown,0,3574097,3431,0,0
+Delaware,Active Full Time,2,897934,2088,0.2227,0.9579
+Delaware,Active Part Time or Seasonal,0,897934,2088,0,0
+Delaware,Early Retiree,0,897934,2088,0,0
+Delaware,Medicare Eligible Retiree,0,897934,2088,0,0
+Delaware,Retiree (status unknown),0,897934,2088,0,0
+Delaware,COBRA Continuee,0,897934,2088,0,0
+Delaware,Long Term Disability,0,897934,2088,0,0
+Delaware,Surviving Spouse/Depend.,0,897934,2088,0,0
+Delaware,Other/Unknown,0,897934,2088,0,0
+Florida,Active Full Time,44,18801310,14966,0.234,2.94
+Florida,Active Part Time or Seasonal,1,18801310,14966,0.0053,0.0668
+Florida,Early Retiree,1,18801310,14966,0.0053,0.0668
+Florida,COBRA Continuee,5,18801310,14966,0.0266,0.3341
+Florida,Long Term Disability,1,18801310,14966,0.0053,0.0668
+Florida,Surviving Spouse/Depend.,1,18801310,14966,0.0053,0.0668
+Florida,Other/Unknown,5,18801310,14966,0.0266,0.3341
+Florida,Medicare Eligible Retiree,0,18801310,14966,0,0
+Florida,Retiree (status unknown),0,18801310,14966,0,0
+Georgia,Active Full Time,43,9687653,22416,0.4439,1.9183
+Georgia,Early Retiree,3,9687653,22416,0.031,0.1338
+Georgia,COBRA Continuee,1,9687653,22416,0.0103,0.0446
+Georgia,Long Term Disability,1,9687653,22416,0.0103,0.0446
+Georgia,Other/Unknown,4,9687653,22416,0.0413,0.1784
+Georgia,Active Part Time or Seasonal,0,9687653,22416,0,0
+Georgia,Medicare Eligible Retiree,0,9687653,22416,0,0
+Georgia,Retiree (status unknown),0,9687653,22416,0,0
+Georgia,Surviving Spouse/Depend.,0,9687653,22416,0,0
+Hawaii,Active Full Time,0,1360301,85,0,0
+Hawaii,Active Part Time or Seasonal,0,1360301,85,0,0
+Hawaii,Early Retiree,0,1360301,85,0,0
+Hawaii,Medicare Eligible Retiree,0,1360301,85,0,0
+Hawaii,Retiree (status unknown),0,1360301,85,0,0
+Hawaii,COBRA Continuee,0,1360301,85,0,0
+Hawaii,Long Term Disability,0,1360301,85,0,0
+Hawaii,Surviving Spouse/Depend.,0,1360301,85,0,0
+Hawaii,Other/Unknown,0,1360301,85,0,0
+Idaho,Active Full Time,0,1567582,569,0,0
+Idaho,Active Part Time or Seasonal,0,1567582,569,0,0
+Idaho,Early Retiree,0,1567582,569,0,0
+Idaho,Medicare Eligible Retiree,0,1567582,569,0,0
+Idaho,Retiree (status unknown),0,1567582,569,0,0
+Idaho,COBRA Continuee,0,1567582,569,0,0
+Idaho,Long Term Disability,0,1567582,569,0,0
+Idaho,Surviving Spouse/Depend.,0,1567582,569,0,0
+Idaho,Other/Unknown,0,1567582,569,0,0
+Illinois,Active Full Time,10,12830632,10670,0.0779,0.9372
+Illinois,Active Part Time or Seasonal,2,12830632,10670,0.0156,0.1874
+Illinois,Other/Unknown,3,12830632,10670,0.0234,0.2812
+Illinois,Early Retiree,0,12830632,10670,0,0
+Illinois,Medicare Eligible Retiree,0,12830632,10670,0,0
+Illinois,Retiree (status unknown),0,12830632,10670,0,0
+Illinois,COBRA Continuee,0,12830632,10670,0,0
+Illinois,Long Term Disability,0,12830632,10670,0,0
+Illinois,Surviving Spouse/Depend.,0,12830632,10670,0,0
+Indiana,Active Full Time,7,6483802,7465,0.108,0.9377
+Indiana,Early Retiree,1,6483802,7465,0.0154,0.134
+Indiana,Medicare Eligible Retiree,1,6483802,7465,0.0154,0.134
+Indiana,Other/Unknown,3,6483802,7465,0.0463,0.4019
+Indiana,Active Part Time or Seasonal,0,6483802,7465,0,0
+Indiana,Retiree (status unknown),0,6483802,7465,0,0
+Indiana,COBRA Continuee,0,6483802,7465,0,0
+Indiana,Long Term Disability,0,6483802,7465,0,0
+Indiana,Surviving Spouse/Depend.,0,6483802,7465,0,0
+Iowa,Active Full Time,5,3046355,1738,0.1641,2.8769
+Iowa,Early Retiree,1,3046355,1738,0.0328,0.5754
+Iowa,Active Part Time or Seasonal,0,3046355,1738,0,0
+Iowa,Medicare Eligible Retiree,0,3046355,1738,0,0
+Iowa,Retiree (status unknown),0,3046355,1738,0,0
+Iowa,COBRA Continuee,0,3046355,1738,0,0
+Iowa,Long Term Disability,0,3046355,1738,0,0
+Iowa,Surviving Spouse/Depend.,0,3046355,1738,0,0
+Iowa,Other/Unknown,0,3046355,1738,0,0
+Kansas,Active Full Time,2,2853118,2026,0.0701,0.9872
+Kansas,Active Part Time or Seasonal,0,2853118,2026,0,0
+Kansas,Early Retiree,0,2853118,2026,0,0
+Kansas,Medicare Eligible Retiree,0,2853118,2026,0,0
+Kansas,Retiree (status unknown),0,2853118,2026,0,0
+Kansas,COBRA Continuee,0,2853118,2026,0,0
+Kansas,Long Term Disability,0,2853118,2026,0,0
+Kansas,Surviving Spouse/Depend.,0,2853118,2026,0,0
+Kansas,Other/Unknown,0,2853118,2026,0,0
+Kentucky,Active Full Time,7,4339367,3823,0.1613,1.831
+Kentucky,Early Retiree,1,4339367,3823,0.023,0.2616
+Kentucky,Long Term Disability,1,4339367,3823,0.023,0.2616
+Kentucky,Active Part Time or Seasonal,0,4339367,3823,0,0
+Kentucky,Medicare Eligible Retiree,0,4339367,3823,0,0
+Kentucky,Retiree (status unknown),0,4339367,3823,0,0
+Kentucky,COBRA Continuee,0,4339367,3823,0,0
+Kentucky,Surviving Spouse/Depend.,0,4339367,3823,0,0
+Kentucky,Other/Unknown,0,4339367,3823,0,0
+Louisiana,Active Full Time,4,4533372,2935,0.0882,1.3629
+Louisiana,COBRA Continuee,1,4533372,2935,0.0221,0.3407
+Louisiana,Other/Unknown,1,4533372,2935,0.0221,0.3407
+Louisiana,Active Part Time or Seasonal,0,4533372,2935,0,0
+Louisiana,Early Retiree,0,4533372,2935,0,0
+Louisiana,Medicare Eligible Retiree,0,4533372,2935,0,0
+Louisiana,Retiree (status unknown),0,4533372,2935,0,0
+Louisiana,Long Term Disability,0,4533372,2935,0,0
+Louisiana,Surviving Spouse/Depend.,0,4533372,2935,0,0
+Maine,Active Full Time,1,1328361,548,0.0753,1.8248
+Maine,Active Part Time or Seasonal,0,1328361,548,0,0
+Maine,Early Retiree,0,1328361,548,0,0
+Maine,Medicare Eligible Retiree,0,1328361,548,0,0
+Maine,Retiree (status unknown),0,1328361,548,0,0
+Maine,COBRA Continuee,0,1328361,548,0,0
+Maine,Long Term Disability,0,1328361,548,0,0
+Maine,Surviving Spouse/Depend.,0,1328361,548,0,0
+Maine,Other/Unknown,0,1328361,548,0,0
+Maryland,Active Full Time,5,5773552,4495,0.0866,1.1123
+Maryland,Active Part Time or Seasonal,0,5773552,4495,0,0
+Maryland,Early Retiree,0,5773552,4495,0,0
+Maryland,Medicare Eligible Retiree,0,5773552,4495,0,0
+Maryland,Retiree (status unknown),0,5773552,4495,0,0
+Maryland,COBRA Continuee,0,5773552,4495,0,0
+Maryland,Long Term Disability,0,5773552,4495,0,0
+Maryland,Surviving Spouse/Depend.,0,5773552,4495,0,0
+Maryland,Other/Unknown,0,5773552,4495,0,0
+Massachusetts,Active Full Time,5,6547629,5945,0.0764,0.841
+Massachusetts,Active Part Time or Seasonal,0,6547629,5945,0,0
+Massachusetts,Early Retiree,0,6547629,5945,0,0
+Massachusetts,Medicare Eligible Retiree,0,6547629,5945,0,0
+Massachusetts,Retiree (status unknown),0,6547629,5945,0,0
+Massachusetts,COBRA Continuee,0,6547629,5945,0,0
+Massachusetts,Long Term Disability,0,6547629,5945,0,0
+Massachusetts,Surviving Spouse/Depend.,0,6547629,5945,0,0
+Massachusetts,Other/Unknown,0,6547629,5945,0,0
+Michigan,Active Full Time,12,9883640,23231,0.1214,0.5166
+Michigan,Active Part Time or Seasonal,1,9883640,23231,0.0101,0.043
+Michigan,Medicare Eligible Retiree,1,9883640,23231,0.0101,0.043
+Michigan,COBRA Continuee,1,9883640,23231,0.0101,0.043
+Michigan,Other/Unknown,1,9883640,23231,0.0101,0.043
+Michigan,Early Retiree,0,9883640,23231,0,0
+Michigan,Retiree (status unknown),0,9883640,23231,0,0
+Michigan,Long Term Disability,0,9883640,23231,0,0
+Michigan,Surviving Spouse/Depend.,0,9883640,23231,0,0
+Minnesota,Active Full Time,13,5303925,2775,0.2451,4.6847
+Minnesota,Active Part Time or Seasonal,0,5303925,2775,0,0
+Minnesota,Early Retiree,0,5303925,2775,0,0
+Minnesota,Medicare Eligible Retiree,0,5303925,2775,0,0
+Minnesota,Retiree (status unknown),0,5303925,2775,0,0
+Minnesota,COBRA Continuee,0,5303925,2775,0,0
+Minnesota,Long Term Disability,0,5303925,2775,0,0
+Minnesota,Surviving Spouse/Depend.,0,5303925,2775,0,0
+Minnesota,Other/Unknown,0,5303925,2775,0,0
+Mississippi,Active Full Time,7,2967297,4220,0.2359,1.6588
+Mississippi,Active Part Time or Seasonal,0,2967297,4220,0,0
+Mississippi,Early Retiree,0,2967297,4220,0,0
+Mississippi,Medicare Eligible Retiree,0,2967297,4220,0,0
+Mississippi,Retiree (status unknown),0,2967297,4220,0,0
+Mississippi,COBRA Continuee,0,2967297,4220,0,0
+Mississippi,Long Term Disability,0,2967297,4220,0,0
+Mississippi,Surviving Spouse/Depend.,0,2967297,4220,0,0
+Mississippi,Other/Unknown,0,2967297,4220,0,0
+Missouri,Active Full Time,18,5988927,8960,0.3006,2.0089
+Missouri,Retiree (status unknown),1,5988927,8960,0.0167,0.1116
+Missouri,Surviving Spouse/Depend.,1,5988927,8960,0.0167,0.1116
+Missouri,Other/Unknown,1,5988927,8960,0.0167,0.1116
+Missouri,Active Part Time or Seasonal,0,5988927,8960,0,0
+Missouri,Early Retiree,0,5988927,8960,0,0
+Missouri,Medicare Eligible Retiree,0,5988927,8960,0,0
+Missouri,COBRA Continuee,0,5988927,8960,0,0
+Missouri,Long Term Disability,0,5988927,8960,0,0
+Montana,Active Full Time,0,989415,290,0,0
+Montana,Active Part Time or Seasonal,0,989415,290,0,0
+Montana,Early Retiree,0,989415,290,0,0
+Montana,Medicare Eligible Retiree,0,989415,290,0,0
+Montana,Retiree (status unknown),0,989415,290,0,0
+Montana,COBRA Continuee,0,989415,290,0,0
+Montana,Long Term Disability,0,989415,290,0,0
+Montana,Surviving Spouse/Depend.,0,989415,290,0,0
+Montana,Other/Unknown,0,989415,290,0,0
+Nebraska,Active Full Time,1,1826341,988,0.0548,1.0121
+Nebraska,Active Part Time or Seasonal,0,1826341,988,0,0
+Nebraska,Early Retiree,0,1826341,988,0,0
+Nebraska,Medicare Eligible Retiree,0,1826341,988,0,0
+Nebraska,Retiree (status unknown),0,1826341,988,0,0
+Nebraska,COBRA Continuee,0,1826341,988,0,0
+Nebraska,Long Term Disability,0,1826341,988,0,0
+Nebraska,Surviving Spouse/Depend.,0,1826341,988,0,0
+Nebraska,Other/Unknown,0,1826341,988,0,0
+Nevada,Active Full Time,7,2700551,2031,0.2592,3.4466
+Nevada,Active Part Time or Seasonal,1,2700551,2031,0.037,0.4924
+Nevada,Early Retiree,0,2700551,2031,0,0
+Nevada,Medicare Eligible Retiree,0,2700551,2031,0,0
+Nevada,Retiree (status unknown),0,2700551,2031,0,0
+Nevada,COBRA Continuee,0,2700551,2031,0,0
+Nevada,Long Term Disability,0,2700551,2031,0,0
+Nevada,Surviving Spouse/Depend.,0,2700551,2031,0,0
+Nevada,Other/Unknown,0,2700551,2031,0,0
+New Hampshire,Active Full Time,1,1316470,735,0.076,1.3605
+New Hampshire,Active Part Time or Seasonal,0,1316470,735,0,0
+New Hampshire,Early Retiree,0,1316470,735,0,0
+New Hampshire,Medicare Eligible Retiree,0,1316470,735,0,0
+New Hampshire,Retiree (status unknown),0,1316470,735,0,0
+New Hampshire,COBRA Continuee,0,1316470,735,0,0
+New Hampshire,Long Term Disability,0,1316470,735,0,0
+New Hampshire,Surviving Spouse/Depend.,0,1316470,735,0,0
+New Hampshire,Other/Unknown,0,1316470,735,0,0
+New Jersey,Active Full Time,8,8791894,6690,0.091,1.1958
+New Jersey,Early Retiree,2,8791894,6690,0.0227,0.299
+New Jersey,Other/Unknown,1,8791894,6690,0.0114,0.1495
+New Jersey,Active Part Time or Seasonal,0,8791894,6690,0,0
+New Jersey,Medicare Eligible Retiree,0,8791894,6690,0,0
+New Jersey,Retiree (status unknown),0,8791894,6690,0,0
+New Jersey,COBRA Continuee,0,8791894,6690,0,0
+New Jersey,Long Term Disability,0,8791894,6690,0,0
+New Jersey,Surviving Spouse/Depend.,0,8791894,6690,0,0
+New Mexico,Active Full Time,4,2059179,508,0.1943,7.874
+New Mexico,Active Part Time or Seasonal,0,2059179,508,0,0
+New Mexico,Early Retiree,0,2059179,508,0,0
+New Mexico,Medicare Eligible Retiree,0,2059179,508,0,0
+New Mexico,Retiree (status unknown),0,2059179,508,0,0
+New Mexico,COBRA Continuee,0,2059179,508,0,0
+New Mexico,Long Term Disability,0,2059179,508,0,0
+New Mexico,Surviving Spouse/Depend.,0,2059179,508,0,0
+New Mexico,Other/Unknown,0,2059179,508,0,0
+New York,Active Full Time,12,19378102,9491,0.0619,1.2644
+New York,Early Retiree,1,19378102,9491,0.0052,0.1054
+New York,COBRA Continuee,1,19378102,9491,0.0052,0.1054
+New York,Other/Unknown,1,19378102,9491,0.0052,0.1054
+New York,Active Part Time or Seasonal,0,19378102,9491,0,0
+New York,Medicare Eligible Retiree,0,19378102,9491,0,0
+New York,Retiree (status unknown),0,19378102,9491,0,0
+New York,Long Term Disability,0,19378102,9491,0,0
+New York,Surviving Spouse/Depend.,0,19378102,9491,0,0
+North Carolina,Active Full Time,2,9535483,5321,0.021,0.3759
+North Carolina,Active Part Time or Seasonal,1,9535483,5321,0.0105,0.1879
+North Carolina,Early Retiree,1,9535483,5321,0.0105,0.1879
+North Carolina,Other/Unknown,1,9535483,5321,0.0105,0.1879
+North Carolina,Medicare Eligible Retiree,0,9535483,5321,0,0
+North Carolina,Retiree (status unknown),0,9535483,5321,0,0
+North Carolina,COBRA Continuee,0,9535483,5321,0,0
+North Carolina,Long Term Disability,0,9535483,5321,0,0
+North Carolina,Surviving Spouse/Depend.,0,9535483,5321,0,0
+North Dakota,Active Full Time,1,672591,264,0.1487,3.7879
+North Dakota,Active Part Time or Seasonal,0,672591,264,0,0
+North Dakota,Early Retiree,0,672591,264,0,0
+North Dakota,Medicare Eligible Retiree,0,672591,264,0,0
+North Dakota,Retiree (status unknown),0,672591,264,0,0
+North Dakota,COBRA Continuee,0,672591,264,0,0
+North Dakota,Long Term Disability,0,672591,264,0,0
+North Dakota,Surviving Spouse/Depend.,0,672591,264,0,0
+North Dakota,Other/Unknown,0,672591,264,0,0
+Ohio,Active Full Time,17,11536504,18596,0.1474,0.9142
+Ohio,Active Part Time or Seasonal,1,11536504,18596,0.0087,0.0538
+Ohio,Early Retiree,2,11536504,18596,0.0173,0.1076
+Ohio,COBRA Continuee,2,11536504,18596,0.0173,0.1076
+Ohio,Other/Unknown,6,11536504,18596,0.052,0.3227
+Ohio,Medicare Eligible Retiree,0,11536504,18596,0,0
+Ohio,Retiree (status unknown),0,11536504,18596,0,0
+Ohio,Long Term Disability,0,11536504,18596,0,0
+Ohio,Surviving Spouse/Depend.,0,11536504,18596,0,0
+Oklahoma,Active Full Time,6,3751351,2496,0.1599,2.4038
+Oklahoma,Other/Unknown,1,3751351,2496,0.0267,0.4006
+Oklahoma,Active Part Time or Seasonal,0,3751351,2496,0,0
+Oklahoma,Early Retiree,0,3751351,2496,0,0
+Oklahoma,Medicare Eligible Retiree,0,3751351,2496,0,0
+Oklahoma,Retiree (status unknown),0,3751351,2496,0,0
+Oklahoma,COBRA Continuee,0,3751351,2496,0,0
+Oklahoma,Long Term Disability,0,3751351,2496,0,0
+Oklahoma,Surviving Spouse/Depend.,0,3751351,2496,0,0
+Oregon,Active Full Time,20,3831074,3046,0.522,6.566
+Oregon,Active Part Time or Seasonal,5,3831074,3046,0.1305,1.6415
+Oregon,Early Retiree,1,3831074,3046,0.0261,0.3283
+Oregon,Retiree (status unknown),1,3831074,3046,0.0261,0.3283
+Oregon,COBRA Continuee,1,3831074,3046,0.0261,0.3283
+Oregon,Other/Unknown,1,3831074,3046,0.0261,0.3283
+Oregon,Medicare Eligible Retiree,0,3831074,3046,0,0
+Oregon,Long Term Disability,0,3831074,3046,0,0
+Oregon,Surviving Spouse/Depend.,0,3831074,3046,0,0
+Pennsylvania,Active Full Time,16,12702379,8980,0.126,1.7817
+Pennsylvania,Other/Unknown,1,12702379,8980,0.0079,0.1114
+Pennsylvania,Active Part Time or Seasonal,0,12702379,8980,0,0
+Pennsylvania,Early Retiree,0,12702379,8980,0,0
+Pennsylvania,Medicare Eligible Retiree,0,12702379,8980,0,0
+Pennsylvania,Retiree (status unknown),0,12702379,8980,0,0
+Pennsylvania,COBRA Continuee,0,12702379,8980,0,0
+Pennsylvania,Long Term Disability,0,12702379,8980,0,0
+Pennsylvania,Surviving Spouse/Depend.,0,12702379,8980,0,0
+Puerto Rico,Active Full Time,0,3725789,117,0,0
+Puerto Rico,Active Part Time or Seasonal,0,3725789,117,0,0
+Puerto Rico,Early Retiree,0,3725789,117,0,0
+Puerto Rico,Medicare Eligible Retiree,0,3725789,117,0,0
+Puerto Rico,Retiree (status unknown),0,3725789,117,0,0
+Puerto Rico,COBRA Continuee,0,3725789,117,0,0
+Puerto Rico,Long Term Disability,0,3725789,117,0,0
+Puerto Rico,Surviving Spouse/Depend.,0,3725789,117,0,0
+Puerto Rico,Other/Unknown,0,3725789,117,0,0
+Rhode Island,Active Full Time,1,1052567,795,0.095,1.2579
+Rhode Island,Active Part Time or Seasonal,1,1052567,795,0.095,1.2579
+Rhode Island,Early Retiree,0,1052567,795,0,0
+Rhode Island,Medicare Eligible Retiree,0,1052567,795,0,0
+Rhode Island,Retiree (status unknown),0,1052567,795,0,0
+Rhode Island,COBRA Continuee,0,1052567,795,0,0
+Rhode Island,Long Term Disability,0,1052567,795,0,0
+Rhode Island,Surviving Spouse/Depend.,0,1052567,795,0,0
+Rhode Island,Other/Unknown,0,1052567,795,0,0
+South Carolina,Active Full Time,4,4625364,2399,0.0865,1.6674
+South Carolina,Active Part Time or Seasonal,0,4625364,2399,0,0
+South Carolina,Early Retiree,0,4625364,2399,0,0
+South Carolina,Medicare Eligible Retiree,0,4625364,2399,0,0
+South Carolina,Retiree (status unknown),0,4625364,2399,0,0
+South Carolina,COBRA Continuee,0,4625364,2399,0,0
+South Carolina,Long Term Disability,0,4625364,2399,0,0
+South Carolina,Surviving Spouse/Depend.,0,4625364,2399,0,0
+South Carolina,Other/Unknown,0,4625364,2399,0,0
+South Dakota,Active Full Time,0,814180,360,0,0
+South Dakota,Active Part Time or Seasonal,0,814180,360,0,0
+South Dakota,Early Retiree,0,814180,360,0,0
+South Dakota,Medicare Eligible Retiree,0,814180,360,0,0
+South Dakota,Retiree (status unknown),0,814180,360,0,0
+South Dakota,COBRA Continuee,0,814180,360,0,0
+South Dakota,Long Term Disability,0,814180,360,0,0
+South Dakota,Surviving Spouse/Depend.,0,814180,360,0,0
+South Dakota,Other/Unknown,0,814180,360,0,0
+Tennessee,Active Full Time,27,6346105,10788,0.4255,2.5028
+Tennessee,Active Part Time or Seasonal,3,6346105,10788,0.0473,0.2781
+Tennessee,Early Retiree,3,6346105,10788,0.0473,0.2781
+Tennessee,Other/Unknown,3,6346105,10788,0.0473,0.2781
+Tennessee,Medicare Eligible Retiree,0,6346105,10788,0,0
+Tennessee,Retiree (status unknown),0,6346105,10788,0,0
+Tennessee,COBRA Continuee,0,6346105,10788,0,0
+Tennessee,Long Term Disability,0,6346105,10788,0,0
+Tennessee,Surviving Spouse/Depend.,0,6346105,10788,0,0
+Texas,Active Full Time,33,25145561,24161,0.1312,1.3658
+Texas,Early Retiree,1,25145561,24161,0.004,0.0414
+Texas,Medicare Eligible Retiree,1,25145561,24161,0.004,0.0414
+Texas,Surviving Spouse/Depend.,1,25145561,24161,0.004,0.0414
+Texas,Other/Unknown,4,25145561,24161,0.0159,0.1656
+Texas,Active Part Time or Seasonal,0,25145561,24161,0,0
+Texas,Retiree (status unknown),0,25145561,24161,0,0
+Texas,COBRA Continuee,0,25145561,24161,0,0
+Texas,Long Term Disability,0,25145561,24161,0,0
+Utah,Active Full Time,51,2763885,2598,1.8452,19.6305
+Utah,Early Retiree,1,2763885,2598,0.0362,0.3849
+Utah,Active Part Time or Seasonal,0,2763885,2598,0,0
+Utah,Medicare Eligible Retiree,0,2763885,2598,0,0
+Utah,Retiree (status unknown),0,2763885,2598,0,0
+Utah,COBRA Continuee,0,2763885,2598,0,0
+Utah,Long Term Disability,0,2763885,2598,0,0
+Utah,Surviving Spouse/Depend.,0,2763885,2598,0,0
+Utah,Other/Unknown,0,2763885,2598,0,0
+Vermont,Active Full Time,0,625741,188,0,0
+Vermont,Active Part Time or Seasonal,0,625741,188,0,0
+Vermont,Early Retiree,0,625741,188,0,0
+Vermont,Medicare Eligible Retiree,0,625741,188,0,0
+Vermont,Retiree (status unknown),0,625741,188,0,0
+Vermont,COBRA Continuee,0,625741,188,0,0
+Vermont,Long Term Disability,0,625741,188,0,0
+Vermont,Surviving Spouse/Depend.,0,625741,188,0,0
+Vermont,Other/Unknown,0,625741,188,0,0
+Virginia,Active Full Time,9,8001024,4923,0.1125,1.8282
+Virginia,Active Part Time or Seasonal,1,8001024,4923,0.0125,0.2031
+Virginia,Early Retiree,1,8001024,4923,0.0125,0.2031
+Virginia,Medicare Eligible Retiree,0,8001024,4923,0,0
+Virginia,Retiree (status unknown),0,8001024,4923,0,0
+Virginia,COBRA Continuee,0,8001024,4923,0,0
+Virginia,Long Term Disability,0,8001024,4923,0,0
+Virginia,Surviving Spouse/Depend.,0,8001024,4923,0,0
+Virginia,Other/Unknown,0,8001024,4923,0,0
+Washington,Active Full Time,14,6724540,3538,0.2082,3.957
+Washington,Active Part Time or Seasonal,0,6724540,3538,0,0
+Washington,Early Retiree,0,6724540,3538,0,0
+Washington,Medicare Eligible Retiree,0,6724540,3538,0,0
+Washington,Retiree (status unknown),0,6724540,3538,0,0
+Washington,COBRA Continuee,0,6724540,3538,0,0
+Washington,Long Term Disability,0,6724540,3538,0,0
+Washington,Surviving Spouse/Depend.,0,6724540,3538,0,0
+Washington,Other/Unknown,0,6724540,3538,0,0
+West Virginia,Active Full Time,1,1852994,1245,0.054,0.8032
+West Virginia,Active Part Time or Seasonal,0,1852994,1245,0,0
+West Virginia,Early Retiree,0,1852994,1245,0,0
+West Virginia,Medicare Eligible Retiree,0,1852994,1245,0,0
+West Virginia,Retiree (status unknown),0,1852994,1245,0,0
+West Virginia,COBRA Continuee,0,1852994,1245,0,0
+West Virginia,Long Term Disability,0,1852994,1245,0,0
+West Virginia,Surviving Spouse/Depend.,0,1852994,1245,0,0
+West Virginia,Other/Unknown,0,1852994,1245,0,0
+Wisconsin,Active Full Time,12,5686986,3168,0.211,3.7879
+Wisconsin,Active Part Time or Seasonal,1,5686986,3168,0.0176,0.3157
+Wisconsin,Early Retiree,0,5686986,3168,0,0
+Wisconsin,Medicare Eligible Retiree,0,5686986,3168,0,0
+Wisconsin,Retiree (status unknown),0,5686986,3168,0,0
+Wisconsin,COBRA Continuee,0,5686986,3168,0,0
+Wisconsin,Long Term Disability,0,5686986,3168,0,0
+Wisconsin,Surviving Spouse/Depend.,0,5686986,3168,0,0
+Wisconsin,Other/Unknown,0,5686986,3168,0,0
+Wyoming,Active Full Time,2,563626,179,0.3548,11.1732
+Wyoming,Active Part Time or Seasonal,0,563626,179,0,0
+Wyoming,Early Retiree,0,563626,179,0,0
+Wyoming,Medicare Eligible Retiree,0,563626,179,0,0
+Wyoming,Retiree (status unknown),0,563626,179,0,0
+Wyoming,COBRA Continuee,0,563626,179,0,0
+Wyoming,Long Term Disability,0,563626,179,0,0
+Wyoming,Surviving Spouse/Depend.,0,563626,179,0,0
+Wyoming,Other/Unknown,0,563626,179,0,0
